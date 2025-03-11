@@ -1,4 +1,4 @@
-## Lengua y comunicación
+## <span id="lengua">Lengua y comunicación</span>
 La **lengua** y la **comunicación** son dos cosas que usamos todos los días, pero ¿sabes qué significan y cómo funcionan? Vamos a verlo paso a paso.
 
 - **Lengua**: Es como un "juego de reglas" que usamos para hablar y entendernos. Por ejemplo, el español es una lengua, y tiene reglas como cómo se forman las oraciones, cómo se pronuncian las palabras, etc.  
@@ -16,7 +16,7 @@ La **lengua** y la **comunicación** son dos cosas que usamos todos los días, p
 
   - **Ejemplo**: Si le dices a tu amigo: "¿Vamos al cine?", tú eres el emisor, tu amigo es el receptor, el mensaje es la pregunta, el código es el español, el canal es el habla, el contexto es que están planeando algo, y la retroalimentación sería que tu amigo te diga: "¡Sí, vamos!".
 
-## Diferencias entre la lengua oral y la lengua escrita
+## <span id="diferencias">Diferencias entre la lengua oral y la lengua escrita</span>
 La lengua puede ser **hablada** (oral) o **escrita**. Aunque ambas sirven para comunicarnos, tienen diferencias importantes:
 
 1. **Forma de transmitirse**:  
