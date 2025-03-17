@@ -4,7 +4,7 @@ La puntuación es un conjunto de signos que se utilizan en la escritura para org
 
 ---
 
-## Uso del punto
+## <span id="punto">Uso del punto</span>
 
 El **punto** es un signo de puntuación que se utiliza para marcar el final de una oración o para separar ideas completas.
 
@@ -23,7 +23,7 @@ El **punto** es un signo de puntuación que se utiliza para marcar el final de u
 
 ---
 
-## Uso de la coma
+## <span id="coma">Uso de la coma</span>
 
 La **coma** es un signo de puntuación que indica una pausa breve dentro de una oración. Se utiliza en los siguientes casos:
 
@@ -39,7 +39,7 @@ La **coma** es un signo de puntuación que indica una pausa breve dentro de una 
 
 ---
 
-## Uso del punto y coma, y de los dos puntos
+## <span id="dos_puntos">Uso del punto y coma, y de los dos puntos</span>
 
 ### Punto y coma (;)
 El **punto y coma** se utiliza para separar ideas relacionadas dentro de una misma oración o para organizar listas complejas.
@@ -63,7 +63,7 @@ Los **dos puntos** se utilizan para introducir una explicación, una lista o una
 
 ---
 
-## Uso de comillas y paréntesis
+## <span id="comillas">Uso de comillas y paréntesis</span>
 
 ### Comillas (" ")
 Las **comillas** se utilizan para resaltar palabras, citar textualmente o indicar ironía.
@@ -76,7 +76,7 @@ Las **comillas** se utilizan para resaltar palabras, citar textualmente o indica
 3. **Indicar ironía o doble sentido**:
    - Ejemplo: "Qué 'inteligente' fuiste al olvidar las llaves."
 
-### Paréntesis ( ( ) )
+### <span id="parentesis">Paréntesis ( ( ) )</span>
 Los **paréntesis** se utilizan para añadir información adicional o aclaraciones.
 
 #### Casos de uso:
