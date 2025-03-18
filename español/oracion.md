@@ -4,7 +4,7 @@ Una **oración** es una unidad de comunicación que expresa una idea completa. E
 
 ---
 
-## 1. Estructura de la oración simple
+## <span id="estructura">Estructura de la oración simple</span>
 
 Una **oración simple** es aquella que tiene un solo verbo conjugado y expresa una única idea. Su estructura básica es:
 
@@ -23,7 +23,7 @@ Es la parte de la oración que indica **qué hace** el sujeto o **qué se dice**
 
 ---
 
-## 2. La función del sujeto y del predicado
+## <span id="funcion">La función del sujeto y del predicado</span>
 
 ### Sujeto:
 Es la parte de la oración que indica **quién** realiza la acción o de **quién** se habla. Puede ser una persona, animal, cosa o idea.
@@ -36,7 +36,7 @@ Es la parte de la oración que indica **qué hace** el sujeto o **qué se dice**
 
 ---
 
-## 3. El predicado en la oración simple
+## <span id="predicado">El predicado en la oración simple</span>
 
 El **predicado** es el núcleo de la oración y siempre incluye un **verbo**. Puede ser de dos tipos:
 
@@ -50,7 +50,7 @@ Expresa una cualidad o estado del sujeto. Incluye un verbo copulativo (ser, esta
 
 ---
 
-## 4. El sustantivo, elemento principal del sujeto
+## <span id="sustantivo">El sustantivo, elemento principal del sujeto</span>
 
 El **sustantivo** es la palabra que nombra a personas, animales, cosas o ideas. Es el núcleo del sujeto.
 
@@ -65,7 +65,7 @@ El **sustantivo** es la palabra que nombra a personas, animales, cosas o ideas. 
 
 ---
 
-## 5. Los complementos circunstanciales del predicado
+## <span id="complementos">Los complementos circunstanciales del predicado</span>
 
 Los **complementos circunstanciales** son palabras o frases que añaden información sobre las circunstancias de la acción (tiempo, lugar, modo, etc.).
 
@@ -83,7 +83,7 @@ Los **complementos circunstanciales** son palabras o frases que añaden informac
 
 ---
 
-## 6. El verbo como elemento principal del predicado
+## <span id="verbo">El verbo como elemento principal del predicado</span>
 
 El **verbo** es el núcleo del predicado y expresa la acción, estado o proceso realizado por el sujeto.
 
