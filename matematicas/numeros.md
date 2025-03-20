@@ -4,7 +4,7 @@ Los números son herramientas fundamentales en matemáticas y en la vida cotidia
 
 ---
 
-## 1. Operaciones con números naturales
+## <span id="numeros">Operaciones con números naturales</span>
 
 Los **números naturales** son aquellos que usamos para contar: 1, 2, 3, 4, etc. Las operaciones básicas con números naturales son:
 
@@ -32,7 +32,7 @@ Los **números naturales** son aquellos que usamos para contar: 1, 2, 3, 4, etc.
 
 ---
 
-## 2. Operaciones con fracciones y números decimales
+## <span id="fracciones">Operaciones con fracciones y números decimales</span>
 
 ### Fracciones:
 Una **fracción** representa una parte de un todo. Se escribe como a/b, donde a es el numerador y b es el denominador.
@@ -81,7 +81,7 @@ Los **números decimales** representan fracciones cuyo denominador es una potenc
 
 ---
 
-## 3. Leyes de los signos
+## <span id="signos">Leyes de los signos</span>
 
 Las **leyes de los signos** determinan el resultado de operaciones con números positivos y negativos.
 
@@ -115,7 +115,7 @@ Las **leyes de los signos** determinan el resultado de operaciones con números 
 
 ---
 
-## 4. Patrones y fórmulas
+## <span id="patrones">Patrones y fórmulas</span>
 
 Un **patrón** es una secuencia de números o figuras que sigue una regla específica. Una **fórmula** es una expresión matemática que describe una relación.
 
