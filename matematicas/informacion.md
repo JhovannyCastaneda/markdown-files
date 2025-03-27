@@ -3,7 +3,7 @@
 El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. 
 
 ---
-## Relación de la Información
+<!--## Relación de la Información
 Se refiere a cómo los datos o conceptos están conectados entre sí. Puede ser una relación lógica, causal o matemática.
 
 ### Tipos de relación:
@@ -62,14 +62,14 @@ Los diagramas y tablas ayudan a representar la información de manera visual.
 - **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión. 
 
 ### Ejemplo de Tabla:
-<!--| Producto | Precio | Descuento | 
+| Producto | Precio | Descuento | 
 |----------|--------|------------| 
 | Laptop   | $10,000 | 10%       | 
-| Celular  | $5,000  | 5%        |  -->
+| Celular  | $5,000  | 5%        | 
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
-<!--```
+```
 Alumnos
 50 |   ██████
 40 |   █████
