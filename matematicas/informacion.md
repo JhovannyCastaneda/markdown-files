@@ -59,13 +59,13 @@ $$ \frac{20}{50} \times 100 = 40\% $$
 Los diagramas y tablas ayudan a representar la información de manera visual.
 
 - **Tablas**: Organizan datos numéricos o categóricos en filas y columnas.
-- **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión. -->
+- **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión. 
 
 ### Ejemplo de Tabla:
 | Producto | Precio | Descuento | 
 |----------|--------|------------| 
 | Laptop   | $10,000 | 10%       | 
-| Celular  | $5,000  | 5%        | 
+| Celular  | $5,000  | 5%        |  -->
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
