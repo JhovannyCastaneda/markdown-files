@@ -3,7 +3,7 @@
 El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. 
 
 ---
-<!--## Relación de la Información
+## Relación de la Información
 Se refiere a cómo los datos o conceptos están conectados entre sí. Puede ser una relación lógica, causal o matemática.
 
 ### Tipos de relación:
@@ -21,7 +21,7 @@ Si una persona estudia más horas, su rendimiento académico mejora. Aquí hay u
    - Precio de un producto y demanda del mismo.
 
 ---
-## Relaciones de Proporcionalidad
+<!--## Relaciones de Proporcionalidad
 Las relaciones de proporcionalidad indican cómo dos cantidades varían en relación entre sí. Pueden ser **directas** o **inversas**.
 
 - **Proporcionalidad directa**: Si una cantidad aumenta, la otra también.
