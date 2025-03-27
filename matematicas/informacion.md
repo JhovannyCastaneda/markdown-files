@@ -65,7 +65,7 @@ Los diagramas y tablas ayudan a representar la información de manera visual.
 | Producto | Precio | Descuento | 
 |----------|--------|------------| 
 | Laptop   | $10,000 | 10%       | 
-| Celular  | $5,000  | 5%        |  -->
+| Celular  | $5,000  | 5%        |  
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
@@ -78,7 +78,7 @@ Alumnos
 10 |   █
  0 |_________________
       Español Matemáticas Ciencias
-```
+``` -->
 
 #### Ejercicio:
 1. Crea una tabla con los datos de los gastos de tu semana.
