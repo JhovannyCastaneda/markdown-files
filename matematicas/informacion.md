@@ -69,7 +69,7 @@ Los diagramas y tablas ayudan a representar la información de manera visual.
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
-```
+<!--```
 Alumnos
 50 |   ██████
 40 |   █████
@@ -78,7 +78,7 @@ Alumnos
 10 |   █
  0 |_________________
       Español Matemáticas Ciencias
-```
+```-->
 
 #### Ejercicio:
 1. Crea una tabla con los datos de los gastos de tu semana.
