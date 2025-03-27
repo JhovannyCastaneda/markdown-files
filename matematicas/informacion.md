@@ -1,6 +1,6 @@
 # Análisis de la Información
 
-<!--El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. 
+El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. 
 
 ---
 ## Relación de la Información
@@ -69,7 +69,7 @@ Los diagramas y tablas ayudan a representar la información de manera visual.
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
-```
+
 Alumnos
 50 |   ██████
 40 |   █████
@@ -78,7 +78,7 @@ Alumnos
 10 |   █
  0 |_________________
       Español Matemáticas Ciencias
-``` -->
+
 
 #### Ejercicio:
 1. Crea una tabla con los datos de los gastos de tu semana.
