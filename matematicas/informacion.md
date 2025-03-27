@@ -1,6 +1,6 @@
 # Análisis de la Información
 
-<!--El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. -->
+<!--El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. 
 
 ---
 ## Relación de la Información
@@ -59,7 +59,7 @@ $$ \frac{20}{50} \times 100 = 40\% $$
 Los diagramas y tablas ayudan a representar la información de manera visual.
 
 - **Tablas**: Organizan datos numéricos o categóricos en filas y columnas.
-- **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión.
+- **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión. -->
 
 ### Ejemplo de Tabla:
 | Producto | Precio | Descuento | 
