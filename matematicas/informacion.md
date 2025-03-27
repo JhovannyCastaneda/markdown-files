@@ -98,6 +98,3 @@ $$ P(\text{roja}) = \frac{5}{15} = 0.33 \text{ o } 33\% $$
 #### Ejercicio:
 1. En un dado de 6 caras, ¿cuál es la probabilidad de sacar un número par?
 2. Si sacas una carta de una baraja de 52 cartas, ¿cuál es la probabilidad de que sea un As?
-
----
-¡Practica estos conceptos para mejorar tu capacidad de análisis de la información! 📊📉📈
