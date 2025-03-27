@@ -21,7 +21,7 @@ Si una persona estudia más horas, su rendimiento académico mejora. Aquí hay u
    - Precio de un producto y demanda del mismo.
 
 ---
-<!--## Relaciones de Proporcionalidad
+## Relaciones de Proporcionalidad
 Las relaciones de proporcionalidad indican cómo dos cantidades varían en relación entre sí. Pueden ser **directas** o **inversas**.
 
 - **Proporcionalidad directa**: Si una cantidad aumenta, la otra también.
@@ -30,7 +30,7 @@ Las relaciones de proporcionalidad indican cómo dos cantidades varían en relac
 - **Proporcionalidad inversa**: Si una cantidad aumenta, la otra disminuye.
   - Ejemplo: A mayor velocidad, menor tiempo de viaje.
 
-### Fórmula de proporcionalidad directa:
+<!--### Fórmula de proporcionalidad directa:
 $$ y = kx $$
 
 ### Fórmula de proporcionalidad inversa:
