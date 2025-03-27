@@ -14,14 +14,14 @@ Se refiere a cómo los datos o conceptos están conectados entre sí. Puede ser 
 ### Ejemplo:
 Si una persona estudia más horas, su rendimiento académico mejora. Aquí hay una **relación causal** entre el estudio y el rendimiento.
 
-#### Ejercicio:
+<!--#### Ejercicio:
 1. Identifica la relación entre las siguientes variables:
    - Consumo de agua y estado de hidratación.
    - Cantidad de ejercicio y estado físico.
    - Precio de un producto y demanda del mismo.
 
 ---
-<!--## Relaciones de Proporcionalidad
+## Relaciones de Proporcionalidad
 Las relaciones de proporcionalidad indican cómo dos cantidades varían en relación entre sí. Pueden ser **directas** o **inversas**.
 
 - **Proporcionalidad directa**: Si una cantidad aumenta, la otra también.
