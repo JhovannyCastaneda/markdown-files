@@ -1,6 +1,6 @@
 # Análisis de la Información
 
-<!--El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos.
+<!--El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. -->
 
 ---
 ## Relación de la Información
@@ -59,26 +59,26 @@ $$ \frac{20}{50} \times 100 = 40\% $$
 Los diagramas y tablas ayudan a representar la información de manera visual.
 
 - **Tablas**: Organizan datos numéricos o categóricos en filas y columnas.
-- **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión.-->
+- **Diagramas**: Representaciones gráficas como diagramas de barras, circulares o de dispersión.
 
 ### Ejemplo de Tabla:
-<!-- | Producto | Precio | Descuento | -->
-<!-- |----------|--------|------------| -->
-<!-- | Laptop   | $10,000 | 10%       | -->
-<!-- | Celular  | $5,000  | 5%        | -->
+| Producto | Precio | Descuento | 
+|----------|--------|------------| 
+| Laptop   | $10,000 | 10%       | 
+| Celular  | $5,000  | 5%        | 
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
-<!--```
-<!--Alumnos
-<!--50 |   ██████
-<!--40 |   █████
-<!--30 |   ████
-<!--20 |   ██
-<!--10 |   █
-<!-- 0 |_________________
-<!--      Español Matemáticas Ciencias
-<!--```
+```
+Alumnos
+50 |   ██████
+40 |   █████
+30 |   ████
+20 |   ██
+10 |   █
+ 0 |_________________
+      Español Matemáticas Ciencias
+```
 
 #### Ejercicio:
 1. Crea una tabla con los datos de los gastos de tu semana.
