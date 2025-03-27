@@ -2,6 +2,8 @@
 
 Los números son herramientas fundamentales en matemáticas y en la vida cotidiana. Nos permiten contar, medir, comparar y resolver problemas. A continuación, se explican sus usos y las operaciones básicas que se pueden realizar con ellos.
 
+$$ \text{Porcentaje} = \frac{\text{Parte}}{\text{Total}} \times 100 $$
+
 ---
 
 ## <span id="numeros">Operaciones con números naturales</span>
