@@ -30,10 +30,10 @@ Las relaciones de proporcionalidad indican cómo dos cantidades varían en relac
 - **Proporcionalidad inversa**: Si una cantidad aumenta, la otra disminuye.
   - Ejemplo: A mayor velocidad, menor tiempo de viaje.
 
-<!--### Fórmula de proporcionalidad directa:
+### Fórmula de proporcionalidad directa:
 $$ y = kx $$
 
-### Fórmula de proporcionalidad inversa:
+<!--### Fórmula de proporcionalidad inversa:
 $$ y = \frac{k}{x} $$
 
 #### Ejercicio:
