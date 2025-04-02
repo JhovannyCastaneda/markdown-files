@@ -30,7 +30,7 @@ Las relaciones de proporcionalidad indican cómo dos cantidades varían en relac
 - **Proporcionalidad inversa**: Si una cantidad aumenta, la otra disminuye.
   - Ejemplo: A mayor velocidad, menor tiempo de viaje.
 
-<!--### Fórmula de proporcionalidad directa:
+### Fórmula de proporcionalidad directa:
 $$ y = kx $$
 
 ### Fórmula de proporcionalidad inversa:
@@ -40,7 +40,7 @@ $$ y = \frac{k}{x} $$
 1. Un coche viaja a 60 km/h y tarda 2 horas en llegar a su destino. ¿Cuánto tardaría si viajara a 120 km/h?
 
 ---
-## Porcentajes
+<!--## Porcentajes
 El porcentaje es una forma de expresar una fracción de 100. Se usa en descuentos, estadísticas y probabilidades.
 
 ### Fórmula:
