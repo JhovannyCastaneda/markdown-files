@@ -33,7 +33,7 @@ Las relaciones de proporcionalidad indican cómo dos cantidades varían en relac
 ### Fórmula de proporcionalidad directa:
 $$ y = kx $$
 
-<!--### Fórmula de proporcionalidad inversa:
+### Fórmula de proporcionalidad inversa:
 $$ y = \frac{k}{x} $$
 
 #### Ejercicio:
@@ -69,7 +69,7 @@ Los diagramas y tablas ayudan a representar la información de manera visual.
 
 ### Ejemplo de Diagrama de Barras:
 Muestra la cantidad de alumnos que aprobaron un examen:
-```
+```text
 Alumnos
 50 |   ██████
 40 |   █████
@@ -97,4 +97,4 @@ $$ P(\text{roja}) = \frac{5}{15} = 0.33 \text{ o } 33\% $$
 
 #### Ejercicio:
 1. En un dado de 6 caras, ¿cuál es la probabilidad de sacar un número par?
-2. Si sacas una carta de una baraja de 52 cartas, ¿cuál es la probabilidad de que sea un As?-->
+2. Si sacas una carta de una baraja de 52 cartas, ¿cuál es la probabilidad de que sea un As?
