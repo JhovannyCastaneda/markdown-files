@@ -3,7 +3,7 @@
 La geometría estudia las formas, tamaños y posiciones de las figuras y los cuerpos. Comprender las **formas geométricas** es clave para visualizar el espacio y resolver problemas del mundo real.
 
 ---
-## ➖ Rectas y Ángulos
+## <span id="rectas_angulos">➖ Rectas y Ángulos</span>
 
 ### 📏 Rectas
 Una **recta** es una sucesión infinita de puntos que se extiende en una sola dimensión.
@@ -31,7 +31,7 @@ Un **ángulo** se forma por dos rectas que se encuentran en un punto llamado **v
 2. ¿Cuánto le falta a un ángulo de 120° para ser un ángulo llano?
 
 ---
-## 🔷 Figuras Planas
+## <span id="figuras">🔷 Figuras Planas</span>
 Las **figuras planas** están formadas por líneas rectas o curvas y tienen solo **dos dimensiones**: largo y ancho.
 
 ### Principales figuras planas:
@@ -53,7 +53,7 @@ Las **figuras planas** están formadas por líneas rectas o curvas y tienen solo
 2. ¿Cuál es el área de un círculo de radio 7 cm? (Usa $$ \pi = 3.14 $$)
 
 ---
-## 🧱 Cuerpos Geométricos
+## <span id="geometricos">🧱 Cuerpos Geométricos</span>
 Los **cuerpos geométricos** tienen tres dimensiones: largo, ancho y alto. También se les llama **figuras tridimensionales**.
 
 ### Ejemplos:
@@ -75,7 +75,7 @@ Los **cuerpos geométricos** tienen tres dimensiones: largo, ancho y alto. Tambi
 2. ¿Cuál es el volumen de un cilindro con radio 3 cm y altura 10 cm?
 
 ---
-## 📐 Justificación de Fórmulas
+## <span id="justificacion">📐 Justificación de Fórmulas</span>
 
 Las fórmulas geométricas se pueden justificar a partir del despiece de figuras.
 
@@ -92,7 +92,7 @@ Justificar una fórmula implica comprender **por qué funciona**, no solo memori
 2. ¿Por qué el área del círculo depende del cuadrado del radio?
 
 ---
-## 🔁 Semejanza
+## <span id="semejanza">🔁 Semejanza</span>
 La **semejanza** se refiere a figuras que tienen la **misma forma** pero diferente tamaño.
 
 ### Características:
