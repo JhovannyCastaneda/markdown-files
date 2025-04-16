@@ -3,7 +3,7 @@
 El análisis de la información es el proceso de examinar, interpretar y organizar datos para extraer conclusiones y tomar decisiones. Se utilizan herramientas como la estadística, la lógica y las matemáticas para mejorar la comprensión de los datos. 
 
 ---
-## Relación de la Información
+## <span id="relacion">Relación de la Información</span>
 Se refiere a cómo los datos o conceptos están conectados entre sí. Puede ser una relación lógica, causal o matemática.
 
 ### Tipos de relación:
@@ -21,7 +21,7 @@ Si una persona estudia más horas, su rendimiento académico mejora. Aquí hay u
    - Precio de un producto y demanda del mismo.
 
 ---
-## Relaciones de Proporcionalidad
+## <span id="relaciones">Relaciones de Proporcionalidad</span>
 Las relaciones de proporcionalidad indican cómo dos cantidades varían en relación entre sí. Pueden ser **directas** o **inversas**.
 
 - **Proporcionalidad directa**: Si una cantidad aumenta, la otra también.
@@ -40,7 +40,7 @@ $$ y = \frac{k}{x} $$
 1. Un coche viaja a 60 km/h y tarda 2 horas en llegar a su destino. ¿Cuánto tardaría si viajara a 120 km/h?
 
 ---
-## Porcentajes
+## <span id="porcentajes">Porcentajes</span>
 El porcentaje es una forma de expresar una fracción de 100. Se usa en descuentos, estadísticas y probabilidades.
 
 ### Fórmula:
@@ -55,7 +55,7 @@ $$ \frac{20}{50} \times 100 = 40\% $$
 2. Si un equipo de fútbol gana 18 de sus 30 partidos, ¿qué porcentaje de juegos ha ganado?
 
 ---
-## Diagramas y Tablas
+## <span id="tablas">Diagramas y Tablas</span>
 Los diagramas y tablas ayudan a representar la información de manera visual.
 
 - **Tablas**: Organizan datos numéricos o categóricos en filas y columnas.
@@ -86,7 +86,7 @@ Alumnos
 2. Representa gráficamente cuántas horas dedicas a estudiar distintas materias.
 
 ---
-## Nociones de Probabilidad
+## <span id="probabilidad">Nociones de Probabilidad</span>
 La probabilidad mide la posibilidad de que ocurra un evento.
 
 ### Fórmula:
