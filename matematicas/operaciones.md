@@ -3,7 +3,7 @@
 Las operaciones matemáticas permiten resolver problemas de la vida cotidiana y académica. Este tema te ayudará a comprender cómo aplicar la **suma, multiplicación, combinaciones de operaciones, ecuaciones, potencias y radicales** en diferentes contextos.
 
 ---
-## 🧠 Problemas para Aplicar la Suma
+## <span id="problemas">🧠 Problemas para Aplicar la Suma</span>
 La **suma** se utiliza para agregar cantidades o encontrar un total.
 
 ### Ejemplo:
@@ -15,7 +15,7 @@ $$ 5 + 3 + 4 = 12 \text{ libros} $$
 1. Si compras un cuaderno por $45, una pluma por $12 y una regla por $18, ¿cuánto pagas en total?
 
 ---
-## ✖️ Problemas para Aplicar la Multiplicación
+## <span id="aplicar-multi">✖️ Problemas para Aplicar la Multiplicación</span>
 La **multiplicación** se usa cuando se suman repetidamente cantidades iguales.
 
 ### Ejemplo:
@@ -27,7 +27,7 @@ $$ 6 \times 8 = 48 \text{ galletas} $$
 1. Si un boleto cuesta $75 y compras 4, ¿cuánto pagarás?
 
 ---
-## 🔀 Operaciones Combinadas
+## <span id="combinadas">🔀 Operaciones Combinadas</span>
 Se presentan cuando una expresión contiene más de una operación. Se resuelven siguiendo el **orden de operaciones** (PEMDAS/BIDMAS):
 
 **P**aréntesis → **E**xponentes → **M**ultiplicación/**D**ivisión → **A**dición/**S**ustracción
@@ -43,7 +43,7 @@ Y finalmente suma: $$ 3 + 10 = 13 $$
 2. Resuelve: $$ 20 - (3 + 2 \times 4) $$
 
 ---
-## 🔢 Ecuaciones
+## <span id="ecuaciones">🔢 Ecuaciones</span>
 Una **ecuación** es una igualdad con una incógnita (variable). Resolverla es encontrar el valor de esa incógnita.
 
 ### Ejemplo:
@@ -58,7 +58,7 @@ $$ 4x = 20 \Rightarrow x = \frac{20}{4} = 5 $$
 2. Resuelve: $$ 2x + 4 = 12 $$
 
 ---
-## ⚡ Potencia y 🔻 Radical
+## <span id="radical">⚡ Potencia y 🔻 Radical</span>
 
 ### 📈 Potencia
 Una **potencia** representa una multiplicación repetida de un mismo número.
