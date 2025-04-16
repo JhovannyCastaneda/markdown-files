@@ -12,7 +12,7 @@ Una **recta** es una sucesión infinita de puntos que se extiende en una sola di
 - **Semirrecta**: tiene un punto de inicio, pero no de fin.
 - **Segmento**: tiene principio y fin.
 
-![Tipos de rectas](https://upload.wikimedia.org/wikipedia/commons/4/4e/Line-ray-segment-es.svg)
+![Tipos de rectas](./imagenes/rectas.png)
 
 ### 📐 Ángulos
 Un **ángulo** se forma por dos rectas que se encuentran en un punto llamado **vértice**.
