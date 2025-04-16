@@ -3,7 +3,7 @@
 Los números son la base de las matemáticas y nos permiten realizar operaciones esenciales en la vida cotidiana. En este tema, abordaremos sus propiedades y aplicaciones.
 
 ---
-<span id="numeros">## ➗ Operaciones con Números Naturales</span>
+##<span id="numeros"> ➗ Operaciones con Números Naturales</span>
 Los **números naturales** (1, 2, 3, …) se usan para contar y operar. Sus principales operaciones son:
 
 ### ✖ **Suma y Resta**
@@ -33,7 +33,7 @@ $$ 18 \div 3 = 6 $$
 1. Resuelve: $$ 8 \times 7 $$ y $$ 56 \div 8 $$
 
 ---
-<span id="fracciones">## 🧮 Operaciones con Fracciones y Números Decimales</span>
+##<span id="fracciones"> 🧮 Operaciones con Fracciones y Números Decimales</span>
 
 ### ➗ **Fracciones**
 Las fracciones representan partes de un todo: $$ \frac{a}{b} $$
@@ -69,7 +69,7 @@ $$ 5.6 \times 1.2 = 6.72 $$
 1. Resuelve: $$ 7.89 - 3.24 $$ y $$ 2.5 \times 3.1 $$
 
 ---
-<span id="signos">## 🔄 Leyes de los Signos</span>
+##<span id="signos"> 🔄 Leyes de los Signos</span>
 Se aplican en **suma, resta, multiplicación y división** con números positivos y negativos.
 
 ### ➕➖ **Suma y Resta**
@@ -95,7 +95,7 @@ $$ 8 \div (-4) = -2 $$
 1. Calcula: $$ (-7) \times 5 $$ y $$ (-12) \div (-3) $$
 
 ---
-<span id="patrones">## 📐 Patrones y Fórmulas</span>
+##<span id="patrones"> 📐 Patrones y Fórmulas</span>
 Los patrones numéricos ayudan a identificar **secuencias y reglas** en las matemáticas.
 
 ### 🔢 **Patrones Numéricos**
@@ -125,5 +125,3 @@ $$ v = \frac{150}{3} = 50 \text{ km/h} $$
 - Las **operaciones con números naturales, fracciones y decimales** son esenciales.
 - La **ley de los signos** guía el cálculo con números positivos y negativos.
 - Los **patrones y fórmulas** simplifican la resolución de problemas.
-
-Practica estos conceptos y mejora tu habilidad matemática. 🚀✨
