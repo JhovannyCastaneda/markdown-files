@@ -24,7 +24,7 @@ Un **ángulo** se forma por dos rectas que se encuentran en un punto llamado **v
 - **Llano**: igual a 180°
 - **Completo**: igual a 360°
 
-![Tipos de ángulos](https://upload.wikimedia.org/wikipedia/commons/4/4c/Tipos_de_angulos.svg)
+![Tipos de ángulos](./imagenes/angulos.png)
 
 #### Ejercicio:
 1. Dibuja un ángulo recto y uno obtuso.
