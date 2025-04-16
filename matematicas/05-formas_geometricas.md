@@ -12,7 +12,7 @@ Una **recta** es una sucesión infinita de puntos que se extiende en una sola di
 - **Semirrecta**: tiene un punto de inicio, pero no de fin.
 - **Segmento**: tiene principio y fin.
 
-![Tipos de rectas](./imagenes/rectas.png)
+![Tipos de rectas](./imagenes/matematicas/rectas.png)
 
 ### 📐 Ángulos
 Un **ángulo** se forma por dos rectas que se encuentran en un punto llamado **vértice**.
@@ -24,7 +24,7 @@ Un **ángulo** se forma por dos rectas que se encuentran en un punto llamado **v
 - **Llano**: igual a 180°
 - **Completo**: igual a 360°
 
-![Tipos de ángulos](./imagenes/angulos.png)
+![Tipos de ángulos](./imagenes/matematicas/angulos.png)
 
 #### Ejercicio:
 1. Dibuja un ángulo recto y uno obtuso.
@@ -40,7 +40,7 @@ Las **figuras planas** están formadas por líneas rectas o curvas y tienen solo
 - **Rectángulo**: lados opuestos iguales
 - **Círculo**: figura curva cerrada
 
-![Figuras planas](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Figuras_planas.svg/800px-Figuras_planas.svg.png)
+![Figuras planas](./imagenes/matematicas/figuras_planas.png)
 
 ### Fórmulas comunes:
 - Área del triángulo: $$ A = \frac{b \cdot h}{2} $$
@@ -63,7 +63,7 @@ Los **cuerpos geométricos** tienen tres dimensiones: largo, ancho y alto. Tambi
 - **Cilindro**: dos círculos y una superficie curva
 - **Cono**: una base circular y una punta
 
-![Cuerpos geométricos](https://upload.wikimedia.org/wikipedia/commons/1/17/Cuerpos_geom%C3%A9tricos.png)
+![Cuerpos geometricos](./imagenes/matematicas/cuerpos_geometricos.png)
 
 ### Fórmulas básicas:
 - Volumen del cubo: $$ V = l^3 $$
@@ -83,12 +83,7 @@ Las fórmulas geométricas se pueden justificar a partir del despiece de figuras
 - El área de un triángulo es la mitad del área de un rectángulo:
   $$ A_{\text{triángulo}} = \frac{1}{2} (\text{base} \times \text{altura}) $$
 
-![Área del triángulo](https://upload.wikimedia.org/wikipedia/commons/3/38/Triangle_area.svg)
-
-- El área del círculo proviene del desarrollo en forma de triángulo curvo:
-  $$ A = \pi r^2 $$
-
-![Justificación área del círculo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Area_of_a_circle_-_rearrangement_proof.svg)
+![Área del triángulo](./imagenes/matematicas/area_triangulo.png)
 
 Justificar una fórmula implica comprender **por qué funciona**, no solo memorizarla.
 
@@ -111,7 +106,7 @@ Dos triángulos son semejantes si:
 
 Ambos tienen los mismos ángulos y los lados están en proporción 1:2.
 
-![Triángulos semejantes](https://upload.wikimedia.org/wikipedia/commons/b/b2/Semejanza_de_triangulos.png)
+![Triangulos semejantes](./imagenes/matematicas/semejanza_triangulo.png)
 
 ### Fórmula para proporciones:
 Si dos figuras son semejantes:
@@ -125,5 +120,3 @@ $$ \frac{a_1}{a_2} = \frac{b_1}{b_2} = \frac{c_1}{c_2} $$
 - Las **formas geométricas** permiten comprender el espacio y resolver problemas reales.
 - Conocer y **justificar fórmulas** ayuda a entender su lógica.
 - La **semejanza** permite identificar proporciones en figuras similares.
-
-¡Practica, dibuja y analiza para dominar la geometría! ✏️📐📏
