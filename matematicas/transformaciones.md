@@ -54,7 +54,7 @@ Es **voltear** una figura sobre una línea (eje de simetría).
 - Respecto al eje **Y**
 - Respecto a una línea diagonal
 
-![Reflexión](./imagenes/matematicas/reflexion1.png)(./imagenes/matematicas/reflexion2.png)
+![Reflexion1](./imagenes/matematicas/reflexion1.png)![Reflexion2](./imagenes/matematicas/reflexion2.png)
 
 #### Ejercicio:
 1. Dibuja un punto en (2, 4). Refleja ese punto respecto al eje X.
