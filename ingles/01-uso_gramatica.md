@@ -6,34 +6,34 @@ Este tema te ayudará a dominar los **tiempos verbales básicos en inglés**, as
 ## 🔹 Presente Simple (Simple Present)
 
 ### Uso:
-- El presente simple en inglés se utiliza en cinco casos principales: para expresar verdades generales, acciones habituales o rutinas, estados permanentes, acciones futuras programadas, y gustos y preferencias personales. La estructura y las reglas del «simple present tense» varían según los pronombres: «I, you, we, they» emplean el verbo en su forma base, mientras que «he, she, it» requieren modificaciones como agregar «es» o «s» al verbo. Para formar negaciones e interrogaciones se utilizan los auxiliares «do/does» seguido del verbo en su forma base. A continuación, desarrollaremos este tema con mayor detalle.
+El presente simple en inglés se utiliza en cinco casos principales: para expresar verdades generales, acciones habituales o rutinas, estados permanentes, acciones futuras programadas, y gustos y preferencias personales. La estructura y las reglas del «simple present tense» varían según los pronombres: «I, you, we, they» emplean el verbo en su forma base, mientras que «he, she, it» requieren modificaciones como agregar «es» o «s» al verbo. Para formar negaciones e interrogaciones se utilizan los auxiliares «do/does» seguido del verbo en su forma base. A continuación, desarrollaremos este tema con mayor detalle.
 
 ### 1. Verdades Generales
-- Este tiempo verbal se usa para expresar hechos que son siempre verdaderos, incluyendo verdades científicas y hechos inmutables.
+Este tiempo verbal se usa para expresar hechos que son siempre verdaderos, incluyendo verdades científicas y hechos inmutables.
 
 - The moon rotates around the Earth. / La luna rota alrededor de la tierra.
 - Human beings need oxygen to live. / Los seres humanos necesitan oxígeno para vivir.
 
 ### 2. Acciones Habituales / Rutinas
-- Describe acciones que se realizan de manera regular o habitual. En este contexto, es común usar adverbios de frecuencia como «always», «usually», «sometimes», y «never».
+Describe acciones que se realizan de manera regular o habitual. En este contexto, es común usar adverbios de frecuencia como «always», «usually», «sometimes», y «never».
 
 - I usually call my parents at night. / Usualmente llamo a mis padres en la noche.
 - She reads a new book every week. / Ella lee un nuevo libro cada semana.
 
 ### 3. Estados Permanentes
-- Se refiere a situaciones que son permanentes o que no cambian frecuentemente, como lugares de residencia, trabajo o estudio.
+Se refiere a situaciones que son permanentes o que no cambian frecuentemente, como lugares de residencia, trabajo o estudio.
 
 - I live in an old house. / Vivo en una casa vieja.
 - My sister works for an international company. / Mi hermana trabaja para una compañía internacional.
 
 ### 4. Acciones Futuras Programadas
-- También se utiliza para hablar de eventos futuros programados, especialmente en contextos de horarios o itinerarios.
+También se utiliza para hablar de eventos futuros programados, especialmente en contextos de horarios o itinerarios.
 
 - The train leaves at 8 PM. / El tren sale a las 8 PM.
 - Her flight arrives tomorrow morning. / Su vuelo llega mañana por la mañana.
 
 ### 5. Gustos y Preferencias
-- Se usa para expresar gustos (verbos «love, like y hate»), preferencias y opiniones personales.
+Se usa para expresar gustos (verbos «love, like y hate»), preferencias y opiniones personales.
 
 - I like chocolate ice cream. / Me gusta el helado de chocolate.
 - He prefers tea over coffee. / Él prefiere el té sobre el café.
@@ -48,15 +48,15 @@ Este tema te ayudará a dominar los **tiempos verbales básicos en inglés**, as
 ## 🔹 Presente Progresivo (Present Continuous)
 
 ### Uso:
-- Para acciones que están ocurriendo en este momento. Hay tres usos principales para este tiempo verbal en inglés.
+Para acciones que están ocurriendo en este momento. Hay tres usos principales para este tiempo verbal en inglés.
 
 ### 1. Situaciones que están ocurriendo en el momento en el que se habla:
 
-- El presente progresivo puede ser usado para hablar de acciones que se están realizando en el momento. Por ejemplo en la frase «en este momento yo estoy enseñando inglés»; la acción «enseñar inglés» está ocurriendo ahora mismo. Veamos la oración completa:
+El presente progresivo puede ser usado para hablar de acciones que se están realizando en el momento. Por ejemplo en la frase «en este momento yo estoy enseñando inglés»; la acción «enseñar inglés» está ocurriendo ahora mismo. Veamos la oración completa:
 
 - I am teaching English at the moment. / Estoy enseñando inglés en este momento.
   
-- Cuando queremos hablar en inglés de acciones que están ocurriendo en el momento, regularmente utilizamos palabras clave como:
+Cuando queremos hablar en inglés de acciones que están ocurriendo en el momento, regularmente utilizamos palabras clave como:
 
 - At the moment: en el momento
 - Now: ahora
@@ -64,25 +64,25 @@ Este tema te ayudará a dominar los **tiempos verbales básicos en inglés**, as
 
 ### 2. Situaciones temporales:
 
-- Podemos usar este tiempo verbal para hablar de situaciones que están ocurriendo en el presente de manera temporal (no habitual). Ejemplo:
+Podemos usar este tiempo verbal para hablar de situaciones que están ocurriendo en el presente de manera temporal (no habitual). Ejemplo:
 
 - I am a doctor, but I am teaching English this summer. / Soy doctora, pero estoy enseñando inglés este verano.
 
 ### 3. El futuro:
 
-- Aunque suene un poco extraño, el presente continuo en inglés también puede ser utilizado para referirse al futuro. (Ir a la lección sobre el futuro en inglés). Observar el siguiente ejemplo:
+Aunque suene un poco extraño, el presente continuo en inglés también puede ser utilizado para referirse al futuro. (Ir a la lección sobre el futuro en inglés). Observar el siguiente ejemplo:
 
 - I am meeting my boss tomorrow at 9 pm. / Me voy a encontrar con mi jefe mañana a las 9 pm.
 
-- En este ejemplo, se esta utilizando el presente progresivo no para referirme a este momento en específico, sino para referirme al futuro. La acción «encontrarme con mi jefe» ocurrirá en el futuro, específicamente mañana a las «9 pm». Muchas veces este uso especial confunde a los estudiantes, ya que no entienden cuándo se refiere al presente y cuándo se refiere al futuro.
+En este ejemplo, se esta utilizando el presente progresivo no para referirme a este momento en específico, sino para referirme al futuro. La acción «encontrarme con mi jefe» ocurrirá en el futuro, específicamente mañana a las «9 pm». Muchas veces este uso especial confunde a los estudiantes, ya que no entienden cuándo se refiere al presente y cuándo se refiere al futuro.
 
-- Te voy a dar una clave para que nunca vuelvas a tener este problema: el presente progresivo se refiere al futuro cuando contiene referencias temporales como:
+Te voy a dar una clave para que nunca vuelvas a tener este problema: el presente progresivo se refiere al futuro cuando contiene referencias temporales como:
 
 - Tomorrow: mañana
 - At (más una hora específica): at 7 am.
 - After (más un evento): after lunch (después de almuerzo)
 
-- Si hay una frase el presente continuo y ésta no contiene una referencia tiempo al futuro, simplemente se referirá al presente.
+Si hay una frase el presente continuo y ésta no contiene una referencia tiempo al futuro, simplemente se referirá al presente.
 
 ![Present Continuous](./imagenes/ingles/01-presente_progresivo.png)![Present Continuous2](./imagenes/ingles/02-presente_progresivo.png)
 
@@ -191,16 +191,46 @@ Nota importante: Muchos hablantes de español tienden a confundir el pasado cont
 ---
 ## 🔹 Futuro Simple (Simple Future)
 
-### Uso:
-- Acciones futuras o decisiones espontáneas.
+La estructura de «will» es fundamental para formar el futuro simple en inglés. Se caracteriza por su simplicidad, ya que se aplica de manera uniforme a todos los pronombres personales (I, you, he, they, etc.) sin excepciones. Después de «will,» siempre se utiliza el verbo en su forma base, sin el uso de «to» (por ejemplo: play, listen, go).
 
-### Estructura:
-- **Subject + will + Verb**
+### Afirmativa 
+La estructura afirmativa con «will» se utiliza para expresar acciones o eventos futuros de manera simple y directa. Sigue la fórmula básica: Sujeto + will + verbo en forma base + complemento. Ejemplos:
 
-### Ejemplo:
-- I will call you later.
-- They will travel tomorrow.
-- Will you help me?
+- My son will be a great doctor in the future. / Mi hijo será un gran doctor en el futuro.
+- She will need a bigger house soon. / Ella va a necesitar una casa más grande pronto.
+- He will finish his homework later. / Él terminará su tarea más tarde.
+- They will attend the conference tomorrow. / Ellos van a asistir a la conferencia mañana.
+
+### Negativa
+Para formar el futuro simple en negativo, se utiliza «will not» o su contracción «won’t» (se pronuncia /woʊnt/). Ambas opciones son intercambiables y tienen el mismo significado. La estructura es: Sujeto + will not/won’t + verbo en forma base + complemento. Ejemplos:
+
+- They will not come tonight. / Ellos no vendrán esta noche.
+- You won’t have a good job. / No tendrás un buen trabajo.
+- I will not eat dessert tonight. / Él no va a comer postre esta noche.
+- We won’t forget your birthday. / No olvidaremos tu cumpleaños.
+
+### Interrogativa
+Para formar preguntas en el futuro simple con «will», el verbo auxiliar «will» se coloca al principio de la oración, seguido del sujeto y el verbo en forma base. La estructura es: Will + sujeto + verbo en forma base + complemento + ?.
+
+Este tipo de preguntas se utiliza para indagar sobre decisiones, predicciones y promesas futuras. Ejemplos de preguntas:
+
+- Will you call me later? / ¿Me llamarás más tarde?
+- Will she come to the party? / ¿Ella vendrá a la fiesta?
+- Will they visit the museum tomorrow? / ¿Ellos visitarán el museo mañana?
+
+**Respuestas a preguntas con «will»:** Las respuestas pueden ser afirmativas o negativas y suelen ser breves:
+
+**Afirmativas:**
+
+- Yes, I will. / Sí, lo haré.
+- Yes, she will. / Sí, ella lo hará.
+
+**Negativas:**
+
+- No, I won’t. / No, no lo haré.
+- No, they won’t. / No, ellos no lo harán.
+
+![Futuro simple](./imagenes/ingles/10-futuro_simple.png)
 
 ### Ejercicio:
 1. Write 3 things you will do next weekend.
@@ -212,12 +242,31 @@ Nota importante: Muchos hablantes de español tienden a confundir el pasado cont
 - Acciones que ocurrieron en un tiempo no especificado del pasado, o que continúan hasta el presente.
 
 ### Estructura:
-- **Subject + have/has + past participle**
+- **Subject + have/has + past participle + complemento**
 
-### Ejemplo:
-- I have eaten sushi.
-- She has visited Paris.
-- Have you finished your homework?
+### 1. Auxiliar HAS y HAVE:
+Para este tiempo verbal es necesario siempre utilizar el auxiliar HAVE. En este contexto, este auxiliar no significa TENER sino HABER. Observa los siguientes ejemplos:
+
+- I have eaten lobster. / Yo he comido langosta.
+- We have eaten fish. / Nosotros hemos comido pescado.
+- He has never eaten raw fish. / Él nunca ha comido pescado crudo.
+
+En las tres frases las palabras HAVE y HAS significan he, hemos y ha respectivamente, las cuales son conjugaciones del verbo HABER en español.
+
+Para fines prácticos y para un mejor entendimiento de la estructura del presente perfecto en inglés, vamos a dividir esta explicación en dos grupos: el primer grupo está conformado por los pronombres “I” “you” “we” y “they”; el segundo grupo contiene los pronombres “he” “she” e “it”.
+
+![Presente perfecto1](./imagenes/ingles/11-presente_perfecto1.png)
+
+### 2. Pasado participio:
+En la estructura del Present Perfect es necesario usar en el verbo principal la forma del pasado participio. Analicemos las siguientes frases para ser más claros:
+
+- You have been to Paris. / Usted ha estado en París.
+- They have seen the movie. / Ellos han visto la película.
+- She has listened to the song The Story of Their Lives more than ten times. / Ella ha escuchado la canción The Story of Their Lives más de diez veces.
+
+En la primera frase el verbo más importante es BEEN (estado), en la segunda SEEN (visto), y en la tercera LISTENED (escuchado). Estos tres verbos están conjugados en el pasado participio, el cual es necesario en este tiempo verbal.
+
+![Presente perfecto1](./imagenes/ingles/11-presente_perfecto2.png)
 
 ### Ejercicio:
 1. Write 3 experiences you’ve had in your life.
@@ -229,11 +278,12 @@ Nota importante: Muchos hablantes de español tienden a confundir el pasado cont
 - Para indicar que una acción ocurrió **antes** de otra en el pasado.
 
 ### Estructura:
+En este tiempo verbal necesitamos usar el auxiliar had y el pasado participio de los verbos en las oraciones afirmativas, negativas e interrogativas. Es importante aclarar que el auxiliar had se utiliza con todos los pronombres personales (I, you, he, she, it, we, they).
+
 - **Subject + had + past participle**
 
-### Ejemplo:
-- I had finished the test before the bell rang.
-- She had already left.
+![Pasado perfecto1](./imagenes/ingles/12-pasado_perfecto.png)
+![Pasado perfecto2](./imagenes/ingles/12-pasado_perfecto2.png)
 
 ### Ejercicio:
 1. Write 2 sentences showing two actions in the past, one happening before the other.
