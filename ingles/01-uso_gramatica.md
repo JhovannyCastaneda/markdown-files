@@ -290,16 +290,61 @@ En este tiempo verbal necesitamos usar el auxiliar had y el pasado participio de
 
 ---
 ## 🔹 Presente Perfecto Progresivo (Present Perfect Continuous)
+El presente perfecto continuo en inglés, también conocido como presente perfecto progresivo, es un tiempo verbal que se utiliza principalmente para destacar la duración de una acción que comenzó en el pasado y aún continúa, o para expresar irritación por acciones repetidas de alguien.
 
-### Uso:
-- Para enfatizar la duración de una acción que comenzó en el pasado y continúa en el presente.
+Su estructura incluye el uso de «have/has» seguido de «been» y un verbo con terminación «-ing». Este tiempo verbal es útil para expresar continuidad y emociones asociadas con eventos recientes, empleando indicadores de duración como «for» y «since».
 
-### Estructura:
-- **Subject + have/has been + Verb-ing**
+### ¿Cómo y cuándo usamos el present perfect continuous?
+Lo utilizamos principalmente en dos situaciones:
 
-### Ejemplo:
-- I have been studying for two hours.
-- He has been working all day.
+**1. Para enfatizar la duración de una acción** (minutos, horas, días, meses, etc.). Dicha acción comenzó en el pasado y sigue ocurriendo en el presente. Es similar al presente perfecto simple. Ejemplos:
+
+- I have been reading this book for a long time. (He estado leyendo este libro por mucho tiempo.)
+- I have been watching the TV series The Walking Dead for 2 months. (He estado viendo la serie de televisión The Walking Dead por 2 meses.)
+
+Nota: En este contexto, podemos usar palabras que indican duración, como since y for.
+
+**2. Para expresar irritación por algo que alguien ha estado haciendo:**
+
+- Mary, why have you been wearing my clothes? (Mary, ¿por qué has estado usando mi ropa?)
+- They’ve been parking in my spot all week. (Han estado estacionándose en mi lugar toda la semana).
+
+### Estructura y ejemplos del presente perfecto continuo
+Antes de analizar las formas afirmativa, negativa e interrogativa, recuerda que usamos «have» con los pronombres I, You, We, They, y «has» con He, She, It.
+
+**Estructura afirmativa: Sujeto + have/has + been + verbo (ing) + complemento.**
+
+Ejemplos:
+
+- I have been cleaning my room for 3 hours. (He estado limpiando mi habitación por 3 horas.)
+- She has been cleaning her room for 3 hours. (Ella ha estado limpiando su habitación por 3 horas.)
+
+Nota: Puedes usar contracciones del verbo auxiliar «have» o «has» para hacerlo más natural:
+
+- I’ve been (I have been)
+- He’s been (He has been)
+
+**Estructura negativa: Sujeto + have not/has not + been + verbo (ing) + complemento.**
+
+Ejemplos:
+
+- You haven’t been doing your homework. (No has estado haciendo tu tarea.)
+- He hasn’t been doing his homework. (Él no ha estado haciendo su tarea.)
+
+Nota: También se pueden usar contracciones en negativo:
+
+- I haven’t been: I have not been
+- He hasn’t been: He has not been
+
+**Estructura interrogativa de Yes/No questions: Have/Has + sujeto + been + verbo (ing) + complemento?**
+
+Ejemplos:
+
+- Have you been doing exercise since the last time we met? (¿Has estado haciendo ejercicio desde la última vez que nos vimos?)
+- Has Michael been doing exercise since the last time we met? (¿Michael ha estado haciendo ejercicio desde la última vez que nos vimos?)
+
+![Perfecto progresivo](./imagenes/ingles/13-perfecto_progresivo.png)
+
 
 ### Ejercicio:
 1. Describe something you’ve been doing recently.
@@ -308,15 +353,15 @@ En este tiempo verbal necesitamos usar el auxiliar had y el pasado participio de
 ## 🔹 Comparativos (Comparatives)
 
 ### Uso:
-- Los adjetivos comparativos en inglés son aquellas palabras que usamos para comparar dos objetos, personas, animales o lugares. Este tema también se conoce como compartive adjectives. Veamos un ejemplo:
+Los adjetivos comparativos en inglés son aquellas palabras que usamos para comparar dos objetos, personas, animales o lugares. Este tema también se conoce como compartive adjectives. Veamos un ejemplo:
 
 Pedro is taller than Pablo. / Pedro es más alto que Pablo.
 
 ### Reglas de los comparativos en inglés
-- En inglés hay 4 formas distintas de hacer un comparativo. Las tres primeras formas se basan en el número de silabas. La cuarta forma tiene que ver con algunos adjetivos irregulares.
+En inglés hay 4 formas distintas de hacer un comparativo. Las tres primeras formas se basan en el número de silabas. La cuarta forma tiene que ver con algunos adjetivos irregulares.
 
 ### Adjetivos de una sílaba
-- Cuando el adjetivo que queremos usar solo tiene una sílaba en su pronunciación como «tall» (alto), debemos agregarle las letras ER después del adjetivo; así que «tall» + «er» es TALLER (más alto). Más ejemplos de adjetivos comparativos de 1 sola sílaba:
+Cuando el adjetivo que queremos usar solo tiene una sílaba en su pronunciación como «tall» (alto), debemos agregarle las letras ER después del adjetivo; así que «tall» + «er» es TALLER (más alto). Más ejemplos de adjetivos comparativos de 1 sola sílaba:
 
 - Small (pequeño) – smaller (más pequeño)
 - Long (largo) – longer (más largo)
@@ -337,7 +382,7 @@ Pedro is taller than Pablo. / Pedro es más alto que Pablo.
 Consejo práctico: Ten en cuenta que 1. Cuando estos adjetivos terminan en E, solo se agrega la R. Ejemplo: «Cute» (lindo) + R: «cuter» (más lindo). 2. Cuando el adjetivo termina en consonante (consonant) + vocal (vowel) + consonante (consonant), se debe duplicar la última consonante. Ejemplo: «Hot» (caliente) – «hotter» (más caliente).
 
 ### Adjetivos terminados en -Y
--Cuando el adjetivo termina en -Y como la palabra happy (feliz), debemos reemplazar la Y por I y adicionarle ER. Así: «happier «(más feliz). Otros adjetivos adjetivos terminados en Y:
+Cuando el adjetivo termina en -Y como la palabra happy (feliz), debemos reemplazar la Y por I y adicionarle ER. Así: «happier «(más feliz). Otros adjetivos adjetivos terminados en Y:
 
 - Busy (ocupado) – busier (más ocupado)
 - Funny (chistoso) – funnier (más chistoso)
@@ -355,7 +400,7 @@ Consejo práctico: Ten en cuenta que 1. Cuando estos adjetivos terminan en E, so
 - Wavy (ondulado) – wavier (más ondulado)
 
 ### Adjetivos de 2 o más sílabas
-- Cuando el adjetivo tiene dos sílabas (como «boring» – aburrido) o más sílabas (como «expensive» – costoso), debemos añadir la palabra MORE antes del adjetivo. Esta forma es la más parecida al español por su posición en la frase. Ejemplos de comparativos:
+Cuando el adjetivo tiene dos sílabas (como «boring» – aburrido) o más sílabas (como «expensive» – costoso), debemos añadir la palabra MORE antes del adjetivo. Esta forma es la más parecida al español por su posición en la frase. Ejemplos de comparativos:
 
 - Intelligent (inteligente) – more intelligent (más inteligente).
 - Interesting (interesante) – more interesting (más interesante)
@@ -376,11 +421,11 @@ Consejo práctico: Ten en cuenta que 1. Cuando estos adjetivos terminan en E, so
 - Complicated (complicado) – more complicated (más complicado)
 
 ### Adjetivos irregulares
-- Este tipo de adjetivos cambian totalmente su estructura al convertirse en comparativos. Los 3 adjetivos irregulars más comunes son: good, bad, far.
+Este tipo de adjetivos cambian totalmente su estructura al convertirse en comparativos. Los 3 adjetivos irregulars más comunes son: good, bad, far.
 
-El comparativo de «Good» (bueno/a o buenos/as) es «better» (mejor).
-El comparativo de «Bad» (malo/a o malos/as) es «worse» (peor).
-El comparativo de «Far» (lejos) es «farther» (más lejos).
+- El comparativo de «Good» (bueno/a o buenos/as) es «better» (mejor).
+- El comparativo de «Bad» (malo/a o malos/as) es «worse» (peor).
+- El comparativo de «Far» (lejos) es «farther» (más lejos).
 
 ![Comparatives](./imagenes/ingles/03-adjetivos_comparativos.png)![Comparatives2](./imagenes/ingles/04-adjetivos_comparativos.png)
 
@@ -391,13 +436,13 @@ El comparativo de «Far» (lejos) es «farther» (más lejos).
 ## 🔹 Tag Questions (Preguntas Coletilla)
 
 ### ¿Qué son y para qué sirven?
-- La respuesta sencilla es: Question tags son unas preguntas cortas que se hacen al final de oraciones en inglés para que el interlocutor (la persona con la que hablamos) compruebe o descarte la información de la oración expresada.
-- Algunas veces cuando hablamos en inglés con otra persona necesitamos información que definitivamente desconocemos; en ese caso, utilizamos los tipos de preguntas de sí o no y otras veces las preguntas informativas.
-- Pero en algunos casos creemos saber la información y solo necesitamos reconfirmar, como cuando al final de una oración decimos: ¿verdad?, ¿cierto? ¿sí?, ¿o no?, ¿no es así?. Aquí es donde debemos usar las tag questions, que no son más que pequeñas preguntas al final de una oración afirmativa o negativa para comprobar si estamos en lo cierto o no.
+La respuesta sencilla es: Question tags son unas preguntas cortas que se hacen al final de oraciones en inglés para que el interlocutor (la persona con la que hablamos) compruebe o descarte la información de la oración expresada.
+Algunas veces cuando hablamos en inglés con otra persona necesitamos información que definitivamente desconocemos; en ese caso, utilizamos los tipos de preguntas de sí o no y otras veces las preguntas informativas.
+Pero en algunos casos creemos saber la información y solo necesitamos reconfirmar, como cuando al final de una oración decimos: ¿verdad?, ¿cierto? ¿sí?, ¿o no?, ¿no es así?. Aquí es donde debemos usar las tag questions, que no son más que pequeñas preguntas al final de una oración afirmativa o negativa para comprobar si estamos en lo cierto o no.
 
 Ejemplo:
 
-You are Megan, aren’t you? / Tú eres Megan, ¿o no?
+- You are Megan, aren’t you? / Tú eres Megan, ¿o no?
 
 ![Questions](./imagenes/ingles/05-tag_questions.png)
 
@@ -408,7 +453,7 @@ You are Megan, aren’t you? / Tú eres Megan, ¿o no?
 ## 🔹 Condicionales (Conditionals)
 
 ### Uso:
-- Hablar sobre situaciones reales, posibles o imaginarias.
+Hablar sobre situaciones reales, posibles o imaginarias.
 
 ### Tipos:
 
