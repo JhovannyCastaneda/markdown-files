@@ -3,7 +3,7 @@
 Este tema tiene como objetivo ayudarte a **usar el inglés de forma natural y completa**, integrando vocabulario, tiempos verbales y estructuras gramaticales en situaciones reales. A través de estos subtemas, aprenderás a hablar sobre ti mismo, comparar momentos de tu vida, expresar habilidades, intereses, planes y mucho más.
 
 ---
-## 🧍‍♂️ Notas sobre Datos Personales, Necesidades Básicas, Comparaciones y Rutinas
+## <span id="notas_relativas">🧍‍♂️ Notas sobre Datos Personales, Necesidades Básicas, Comparaciones y Rutinas</span>
 
 ### ✅ Datos personales
 Saber dar información básica sobre ti es una habilidad esencial en inglés. Se utiliza para presentaciones, formularios, conversaciones cotidianas, entrevistas, etc.
@@ -81,7 +81,7 @@ El **presente progresivo (present continuous)** se usa para describir acciones q
 1. Describe lo que 3 personas están haciendo ahora mismo (pueden ser reales o imaginarias).
 
 ---
-## 🔄 Hábitos y Acciones en el Pasado vs Situaciones Presentes
+## <span id="habitos_acciones">🔄 Hábitos y Acciones en el Pasado vs Situaciones Presentes</span>
 
 ### ✅ Hábitos y acciones en el pasado
 Se expresan usando el **pasado simple**, especialmente para contar experiencias, rutinas pasadas o cosas que solíamos hacer (used to).
@@ -118,7 +118,7 @@ Este tipo de acciones se expresan con el **presente perfecto**, ya que se inicia
 2. Usa "since" y "for" correctamente.
 
 ---
-## 🌟 Habilidades, Intereses, Planes a Corto Plazo y Predicciones
+## <span id="habilidades_intereses">🌟 Habilidades, Intereses, Planes a Corto Plazo y Predicciones</span>
 
 ### ✅ Habilidades (can / can't)
 Hablar sobre lo que podemos o no podemos hacer nos ayuda a expresar capacidades y limitaciones.
