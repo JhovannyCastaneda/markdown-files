@@ -45,9 +45,6 @@ Los comparativos nos permiten contrastar cosas, lugares, personas o situaciones.
 - This book is more interesting than that one.
 - Today is hotter than yesterday.
 
-### Imagen útil:
-![Comparatives](https://www.perfect-english-grammar.com/image-files/comparative-adjectives.png)
-
 ### Ejercicio:
 1. Escribe 3 comparaciones entre tú y tus amigos (edad, estatura, hábitos).
 
@@ -79,9 +76,6 @@ El **presente progresivo (present continuous)** se usa para describir acciones q
 - I am writing my English homework.
 - She is listening to music.
 - They are playing soccer.
-
-### Imagen útil:
-![Present Continuous](https://www.grammar.cl/Images/present-continuous-chart.jpg)
 
 ### Ejercicio:
 1. Describe lo que 3 personas están haciendo ahora mismo (pueden ser reales o imaginarias).
@@ -175,6 +169,4 @@ Se usa "will" para hablar de lo que creemos que pasará en el futuro.
 
 ---
 ## 🧠 Conclusión
-Este tema te permite combinar distintos tiempos verbales y estructuras para **hablar de ti mismo, tus experiencias, lo que haces y lo que planeas hacer**. Al practicar este enfoque integrativo, lograrás expresarte de forma más natural, fluida y completa.
-
-Sigue practicando y usa estas estructuras en tus conversaciones cotidianas. ¡Tú puedes! 💬🇬🇧✨
+Este tema te permite combinar distintos tiempos verbales y estructuras para **hablar de ti mismo, tus experiencias, lo que haces y lo que planeas hacer**💬✨.
