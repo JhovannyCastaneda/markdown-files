@@ -3,7 +3,7 @@
 La **morfosintaxis** se refiere a la forma (morfología) y la función (sintaxis) de las palabras en una oración. En inglés, cada tipo de palabra tiene un papel diferente para construir oraciones claras y correctas. A continuación, exploramos las principales funciones gramaticales con definiciones, ejemplos y ejercicios.
 
 ---
-## 🧠 1. Sustantivo (**Noun**)
+## <span id="sustantivo">🧠 1. Sustantivo (**Noun**)</span>
 Los **nouns** son palabras que nombran **personas, lugares, cosas o ideas**.
 La definición de sustantivo es amplia. Sin embargo, para hacerla más cómoda de entender vamos a dividir los sustantivos en dos grandes grupos: comunes y propios.
 
@@ -45,7 +45,7 @@ Los sustantivos propios se utilizan para nombrar entidades específicas. La prim
 1. Escribe 3 oraciones usando un nombre de persona, un lugar y una cosa.
 
 ---
-## 🎨 2. Adjetivo (**Adjective**)
+## <span id="adjetivo">🎨 2. Adjetivo (**Adjective**)</span>
 Los **adjetivos** describen o dan más información sobre un **sustantivo** (color, tamaño, estado, cantidad, etc.).
 
 ### Ejemplo:
@@ -65,7 +65,7 @@ Los **adjetivos** describen o dan más información sobre un **sustantivo** (col
 1. Describe tu habitación usando 3 adjetivos.
 
 ---
-## 🔧 3. Verbo (**Verb**)
+## <span id="vervo">🔧 3. Verbo (**Verb**)</span>
 Los **verbos** expresan **acciones, estados o procesos**. Son el corazón de una oración.
 
 ### Tipos:
@@ -102,7 +102,7 @@ Los **verbos** expresan **acciones, estados o procesos**. Son el corazón de una
 1. Escribe 3 cosas que haces todos los días.
 
 ---
-## 🏃‍♂️ 4. Adverbio (**Adverb**)
+## <span id="adverbio">🏃‍♂️ 4. Adverbio (**Adverb**)</span>
 Los **adverbios** modifican un **verbo, adjetivo u otro adverbio**, indicando **cómo, cuándo, dónde o con qué frecuencia**.
 
 Los adverbios también pueden intensificar adjetivos y otros adverbios. Al modificar adjetivos, como en «He is extremely tall» (Él es extremadamente alto), refuerzan el significado de «tall» (alto), mientras que, al modificar otros adverbios, como en «The movie finished too soon» (La película terminó demasiado pronto), alteran la intensidad del adverbio «soon» (pronto). Por tanto, los adverbios son esenciales en inglés para expresar matices en las acciones, características y circunstancias descritas en una oración.
@@ -153,7 +153,7 @@ Los adverbios también pueden intensificar adjetivos y otros adverbios. Al modif
 1. Escribe una oración con un adverbio de manera, otra con tiempo y otra con frecuencia.
 
 ---
-## 🔗 5. Preposición (**Preposition**)
+## <span id="preposicion">🔗 5. Preposición (**Preposition**)</span>
 Las **preposiciones** indican la **relación** entre dos elementos de la oración (lugar, tiempo, causa, etc.).
 
 Las preposiciones en inglés son palabras que unen sustantivos, pronombres y frases cortas dentro de oraciones. Analicemos el siguiente ejemplo:
@@ -195,7 +195,7 @@ La preposición «on» nos muestra que la acción «publicar un libro» ocurrió
 1. Escribe 3 oraciones con diferentes preposiciones de lugar.
 
 ---
-## 📚 6. Artículo (**Article**)
+## <span id="articulo">📚 6. Artículo (**Article**)</span>
 Los **artículos** se colocan antes de un sustantivo y pueden ser **definidos** o **indefinidos**:
 
 Los artículos en inglés son palabras que se utilizan para identificar a un sustantivo como específico o inespecífico. Hay dos tipos de artículos: el artículo indefinido o indeterminado «a» y «an» (por ejemplo, I need a phone. / Necesito un teléfono) y el artículo definido o determinado «the» (I found the phone. / Encontré el celular).
@@ -221,7 +221,7 @@ Los artículos en inglés son palabras que se utilizan para identificar a un sus
 1. Completa: "___ orange is on ___ table."
 
 ---
-## 👤 7. Pronombre (**Pronoun**)
+## <span id="pronombre">👤 7. Pronombre (**Pronoun**)</span>
 Los **pronombres** sustituyen a los **sustantivos** para evitar repetirlos.
 
 ### Tipos comunes:
@@ -239,7 +239,7 @@ Los **pronombres** sustituyen a los **sustantivos** para evitar repetirlos.
 1. Escribe 3 oraciones usando distintos pronombres personales.
 
 ---
-## 📄 8. Participio (**Participle**)
+## <span id="participio">📄 8. Participio (**Participle**)</span>
 El **participio** es una forma del verbo que puede funcionar como **adjetivo** o usarse en **tiempos compuestos**.
 
 ### Tipos:
@@ -254,7 +254,7 @@ El **participio** es una forma del verbo que puede funcionar como **adjetivo** o
 1. Escribe una oración con un participio presente y otra con uno pasado.
 
 ---
-## 😲 9. Interjección (**Interjection**)
+## <span id="interjeccion">😲 9. Interjección (**Interjection**)</span>
 Las **interjecciones** son palabras o expresiones que muestran **emoción o reacción**. No tienen función gramatical dentro de la oración.
 
 Son palabras o expresiones que se usan espontáneamente en las conversaciones diarias para mostrar sorpresa o alguna emoción. A continuación, te mostramos algunas de las interjecciones más importantes. Tabla con las interjecciones en inglés:
