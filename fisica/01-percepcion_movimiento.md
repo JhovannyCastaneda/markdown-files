@@ -3,7 +3,7 @@
 Comprender el movimiento es una de las bases fundamentales de la física. Nos permite explicar desde el vuelo de un pájaro hasta el movimiento de los planetas. En este tema exploraremos cómo percibimos el movimiento, qué lo causa, cómo se mide y cómo grandes pensadores como Aristóteles y Galileo ayudaron a explicarlo.
 
 ---
-## 🌿 Fenómenos de la Naturaleza a través del Cambio y el Movimiento
+## <span id="fenomenos_naturaleza">🌿 Fenómenos de la Naturaleza a través del Cambio y el Movimiento</span>
 
 La naturaleza está llena de **fenómenos dinámicos**: el viento mueve las hojas, los ríos fluyen, los animales corren, las nubes se desplazan. El **cambio** y el **movimiento** son esenciales para entender cómo funciona el mundo.
 
@@ -15,7 +15,7 @@ La naturaleza está llena de **fenómenos dinámicos**: el viento mueve las hoja
 📌 Todos estos implican desplazamientos y transformaciones con el tiempo.
 
 ---
-## 👁️‍🗨️ Los Sentidos en la Percepción de Movimientos Rápidos o Lentos
+## <span id="sentidos_percepcion">👁️‍🗨️ Los Sentidos en la Percepción de Movimientos Rápidos o Lentos</span>
 
 Nuestros sentidos, especialmente la **vista y el oído**, son herramientas esenciales para percibir el movimiento. A través de ellos:
 
@@ -29,7 +29,7 @@ Nuestros sentidos, especialmente la **vista y el oído**, son herramientas esenc
 🎯 **Dato interesante**: El ojo humano puede percibir movimientos de hasta 250 imágenes por segundo.
 
 ---
-## 🧍‍♂️ Movimientos en Fenómenos Cotidianos y de Otras Ciencias
+## <span id="fenomenos_cotidianos">🧍‍♂️ Movimientos en Fenómenos Cotidianos y de Otras Ciencias</span>
 
 El estudio del movimiento no es exclusivo de la física. También es importante en:
 - **Biología**: movimientos musculares, circulación sanguínea.
@@ -43,7 +43,7 @@ El estudio del movimiento no es exclusivo de la física. También es importante 
 Todos estos movimientos pueden analizarse usando conceptos físicos.
 
 ---
-## 📐 Marco de Referencia y Trayectoria; Unidades y Medidas de Longitud y Tiempo
+## <span id="referencia_trayectoria">📐 Marco de Referencia y Trayectoria; Unidades y Medidas de Longitud y Tiempo</span>
 
 ### 📌 Marco de Referencia:
 Es el punto desde el cual se observa el movimiento. Es importante porque **el movimiento es relativo**.
@@ -63,13 +63,13 @@ Es la **ruta que sigue un objeto** al moverse. Puede ser:
 | Tiempo    | segundo (s)| reloj, cronómetro  |
 
 ### Imagen:
-![Trayectoria](https://www.geeksforgeeks.org/wp-content/uploads/trajectory-2.png)
+![Trayectoria](./imagenes/fisica/01-trayectoria.png)
 
 ### Ejercicio:
 1. Describe una trayectoria curvilínea y una rectilínea que hayas visto hoy.
 
 ---
-## ⏱️ Relación Desplazamiento-Tiempo, Velocidad y Rapidez
+## <span id="tiempo_velocidad">⏱️ Relación Desplazamiento-Tiempo, Velocidad y Rapidez</span>
 
 - **Desplazamiento**: distancia en línea recta desde el punto inicial al final.
 - **Tiempo**: duración del movimiento.
@@ -86,13 +86,13 @@ Es la **distancia total recorrida** entre el tiempo total. Es una magnitud **esc
 - Caminas 100 m en 20 s: rapidez = 100 ÷ 20 = **5 m/s**
 
 ### Imagen:
-![Velocidad vs rapidez](https://cdn.savemyexams.co.uk/wp-content/uploads/2022/04/Speed-vs-Velocity-diagram.png)
+![Velocidad vs rapidez](./imagenes/fisica/02-velocidad_rapidez.png)
 
 ### Ejercicio:
 1. Si un ciclista recorre 400 m en 50 s, ¿cuál es su rapidez promedio?
 
 ---
-## 🌊 Longitud de Onda y Frecuencia
+## <span id="onda_frecuencia">🌊 Longitud de Onda y Frecuencia</span>
 
 Las **ondas** son perturbaciones que se propagan en un medio. Pueden ser **sonoras, de agua, de luz, etc.**
 
@@ -100,7 +100,7 @@ Las **ondas** son perturbaciones que se propagan en un medio. Pueden ser **sonor
 - **Frecuencia (f)**: número de ondas que pasan por un punto en un segundo.
 
 ### Imagen:
-![Ondas](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wave.png/640px-Wave.png)
+![Ondas](./imagenes/fisica/03-onda_frecuencia.png)
 
 ### Fórmula:
 $$ v = \lambda \cdot f $$
@@ -109,7 +109,7 @@ $$ v = \lambda \cdot f $$
 1. Si una onda tiene una frecuencia de 50 Hz y una longitud de 2 m, ¿cuál es su velocidad?
 
 ---
-## 🚀 Velocidad de Propagación
+## <span id="velocidad_propagacion">🚀 Velocidad de Propagación</span>
 
 La **velocidad de propagación** indica con qué rapidez se mueve una onda o señal a través de un medio.
 
@@ -121,7 +121,7 @@ La **velocidad de propagación** indica con qué rapidez se mueve una onda o se�
 1. ¿Qué medio permite una propagación más rápida: el aire o el agua?
 
 ---
-## 🧱 Caída Libre Según Aristóteles
+## <span id="caida_libre">🧱 Caída Libre Según Aristóteles</span>
 
 Aristóteles (384–322 a.C.) afirmaba que:
 - **Los cuerpos más pesados caen más rápido** que los ligeros.
@@ -132,7 +132,7 @@ Esta idea se basaba en observación, pero **no era del todo correcta**.
 - Una piedra y una hoja no caen igual, pero eso se debe a la **resistencia del aire**, no al peso.
 
 ---
-## 🔭 Hipótesis de Galileo
+## <span id="galileo">🔭 Hipótesis de Galileo</span>
 
 Galileo Galilei (1564–1642) **refutó a Aristóteles**. Usó el método experimental y propuso:
 - **Todos los objetos caen con la misma aceleración** si se elimina el efecto del aire.
@@ -141,13 +141,13 @@ Galileo Galilei (1564–1642) **refutó a Aristóteles**. Usó el método experi
 - Lanzó bolas de distinto peso desde la Torre de Pisa y cayeron al mismo tiempo.
 
 ### Imagen:
-![Galileo caída libre](https://cdn.kastatic.org/ka-perseus-images/d7db2c8f5bfbef3727c978c0fd51a3f172ec2493.png)
+![Galileo caída libre](./imagenes/fisica/04-caida_libre.png)
 
 ### Ejercicio:
 1. ¿Qué descubrió Galileo sobre la aceleración de los cuerpos en caída libre?
 
 ---
-## 🔺 La Aceleración
+## <span id="aceleracion">🔺 La Aceleración</span>
 
 La **aceleración** es el cambio de velocidad en un objeto respecto al tiempo:
 
@@ -161,13 +161,11 @@ Puede ser:
 - Un coche que pasa de 0 a 100 km/h en 5 s tiene aceleración positiva.
 
 ### Imagen:
-![Aceleración](https://cdn.savemyexams.co.uk/wp-content/uploads/2022/05/Velocity-time-graph-constant-acceleration.png)
+![Aceleración](./imagenes/fisica/05-aceleracion.png)
 
 ### Ejercicio:
 1. Si un coche pasa de 10 m/s a 30 m/s en 4 segundos, ¿cuál es su aceleración?
 
 ---
 ## 🧠 Conclusión
-La física nos permite **entender y medir el movimiento** en el mundo que nos rodea. Desde lo más cotidiano hasta los principios que rigen el universo, la percepción del movimiento es clave para interpretar la realidad con precisión.
-
-¡Observa, mide, analiza y experimenta como Galileo! ⚙️📏✨
+La física nos permite **entender y medir el movimiento** en el mundo que nos rodea. Desde lo más cotidiano hasta los principios que rigen el universo, la percepción del movimiento es clave para interpretar la realidad con precisión. ⚙️📏✨
