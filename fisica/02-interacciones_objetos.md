@@ -3,7 +3,7 @@
 En física, **todo cambio** que ocurre en un objeto es resultado de **interacciones** con otros cuerpos. Estas interacciones producen **movimiento, deformación o cambios de energía**. Este tema te ayudará a entender cómo las fuerzas generan cambios y cómo se relacionan con las leyes de Newton.
 
 ---
-## 🔁 El Cambio y las Interacciones
+## <span id="cambio_interacciones">🔁 El Cambio y las Interacciones</span>
 
 Una **interacción** se produce cuando dos cuerpos ejercen una **fuerza** uno sobre otro. Estas interacciones provocan:
 - Cambios de posición (movimiento)
@@ -14,7 +14,7 @@ Una **interacción** se produce cuando dos cuerpos ejercen una **fuerza** uno so
 - Al patear una pelota, tu pie aplica una fuerza que cambia su estado (de reposo a movimiento).
 
 ---
-## ⚙️ Interacciones Mecánicas, Eléctricas y Magnéticas
+## <span id="mecanica_electrica">⚙️ Interacciones Mecánicas, Eléctricas y Magnéticas</span>
 
 ### 🔧 Mecánica
 Ocurre cuando hay **contacto físico**: empujar, golpear, arrastrar.
@@ -25,14 +25,11 @@ Ocurre por la presencia de **cargas eléctricas**. Por ejemplo, el cabello se er
 ### 🧲 Magnética
 Se da entre **imanes y materiales ferromagnéticos**. Por ejemplo, un imán atrayendo un clavo.
 
-### Imagen:
-![Fuerzas mecánicas, eléctricas y magnéticas](https://cdn.savemyexams.co.uk/wp-content/uploads/2022/05/Contact-and-non-contact-forces.png)
-
 ### Ejercicio:
 1. Escribe un ejemplo para cada tipo de interacción.
 
 ---
-## 💪 Concepto de Fuerza
+## <span id="fuerza">💪 Concepto de Fuerza</span>
 
 Una **fuerza** es una interacción que puede **cambiar el estado de movimiento o la forma de un objeto**.
 
@@ -44,10 +41,10 @@ Una **fuerza** es una interacción que puede **cambiar el estado de movimiento o
 - Empujar una caja, tirar de una cuerda, comprimir un resorte.
 
 ### Imagen:
-![Vector de fuerza](https://www.ux1.eiu.edu/~cfadd/1150/07NwtnLaws/Images/force_vector.gif)
+![Vector de fuerza](./imagenes/fisica/06-fuerza.png)
 
 ---
-## ➡️ Dirección de la Fuerza y Dirección del Movimiento
+## <span id="fuerza_direccion">➡️ Dirección de la Fuerza y Dirección del Movimiento</span>
 
 La dirección de la **fuerza aplicada** afecta el **movimiento** del objeto:
 - Si la fuerza va en la misma dirección que el movimiento, el objeto acelera.
@@ -57,7 +54,7 @@ La dirección de la **fuerza aplicada** afecta el **movimiento** del objeto:
 - Una bicicleta en bajada (fuerza en dirección del movimiento) vs. frenar cuesta arriba (fuerza en dirección opuesta).
 
 ---
-## ➕ Suma de Fuerzas (Fuerza Resultante)
+## <span id="suma_fuerzas">➕ Suma de Fuerzas (Fuerza Resultante)</span>
 
 Cuando varias fuerzas actúan sobre un cuerpo, se **suman vectorialmente**:
 - Si van en la misma dirección: se suman.
@@ -73,7 +70,7 @@ $$ F_{R} = F_1 + F_2 $$ (si están en la misma dirección)
 1. Si una fuerza de 8 N va hacia la derecha y otra de 5 N hacia la izquierda, ¿cuál es la fuerza resultante?
 
 ---
-## ⛔ Reposo
+## <span id="reposo">⛔ Reposo</span>
 
 Un objeto está en **reposo** cuando **su velocidad es cero** y **no cambia de posición con el tiempo**, respecto a un marco de referencia.
 
@@ -84,7 +81,7 @@ Un objeto está en **reposo** cuando **su velocidad es cero** y **no cambia de p
 📌 Aunque esté en reposo, puede tener fuerzas equilibradas actuando sobre él.
 
 ---
-## 📏 La Medición de la Fuerza
+## <span id="medicion_fuerza">📏 La Medición de la Fuerza</span>
 
 La fuerza se mide con un **dinamómetro**, basado en la deformación de un resorte.
 
