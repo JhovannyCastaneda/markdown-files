@@ -95,7 +95,7 @@ La fuerza se mide con un **dinamómetro**, basado en la deformación de un resor
 1. ¿Cuántos newtons ejerce una persona de 60 kg debido a su peso? (Usa g = 9.8 m/s²)
 
 ---
-## 🛑 Inercia
+## <span id="inercia">🛑 Inercia</span>
 
 La **inercia** es la **tendencia de un objeto a mantener su estado de reposo o movimiento**.
 
@@ -108,7 +108,7 @@ La **inercia** es la **tendencia de un objeto a mantener su estado de reposo o m
 1. ¿Qué objeto tiene más inercia: una pelota de tenis o una de boliche? ¿Por qué?
 
 ---
-## ⚖️ Relación Masa con la Fuerza
+## <span id="masa_fuerza">⚖️ Relación Masa con la Fuerza</span>
 
 La fuerza necesaria para mover un objeto depende de su **masa** y la **aceleración** que se desea aplicar.
 
@@ -128,7 +128,7 @@ Donde:
 1. ¿Qué fuerza se necesita para acelerar una caja de 15 kg a 3 m/s²?
 
 ---
-## 🔁 Acción y Reacción
+## <span id="accion_reaccion">🔁 Acción y Reacción</span>
 
 A toda acción le corresponde una **reacción igual y contraria**. Las fuerzas actúan **por pares**.
 
@@ -143,7 +143,7 @@ A toda acción le corresponde una **reacción igual y contraria**. Las fuerzas a
 1. Escribe 2 pares de fuerzas de acción y reacción que veas en tu entorno.
 
 ---
-## ⚖️ Las Leyes de Newton
+## <span id="leyes_newton">⚖️ Las Leyes de Newton</span>
 
 Sir Isaac Newton formuló tres leyes que explican cómo se comportan los objetos cuando se les aplica una fuerza.
 
