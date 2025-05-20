@@ -89,7 +89,7 @@ La fuerza se mide con un **dinamómetro**, basado en la deformación de un resor
 - **Newton (N)** = fuerza necesaria para acelerar 1 kg a razón de 1 m/s²
 
 ### Imagen:
-![Dinamómetro](https://www.teachengineering.org/content/cub_/lessons/cub_mechanics/cub_mechanics_lesson03_image1.jpg)
+![Dinamómetro](./imagenes/fisica/07-dinamometro.png)
 
 ### Ejercicio:
 1. ¿Cuántos newtons ejerce una persona de 60 kg debido a su peso? (Usa g = 9.8 m/s²)
@@ -137,7 +137,7 @@ A toda acción le corresponde una **reacción igual y contraria**. Las fuerzas a
 - Al saltar, empujas el suelo hacia abajo y el suelo te empuja hacia arriba.
 
 ### Imagen:
-![Acción y reacción](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Action_and_Reaction.svg/512px-Action_and_Reaction.svg.png)
+![Acción y reacción](./imagenes/fisica/08-accion_reaccion.png)
 
 ### Ejercicio:
 1. Escribe 2 pares de fuerzas de acción y reacción que veas en tu entorno.
@@ -158,13 +158,11 @@ Sir Isaac Newton formuló tres leyes que explican cómo se comportan los objetos
 > A toda acción corresponde una reacción de igual magnitud pero en sentido opuesto.
 
 ### Imagen resumen:
-![Leyes de Newton](https://i.ytimg.com/vi/HEfHFsfGXjs/maxresdefault.jpg)
+![Leyes de Newton](./imagenes/fisica/09-leyes_newton.png)
 
 ### Ejercicio:
 1. Describe una situación cotidiana que ejemplifique cada ley de Newton.
 
 ---
 ## 🧠 Conclusión
-Todo cambio físico implica una **fuerza**. Desde empujar un lápiz hasta el lanzamiento de un cohete, las interacciones entre objetos están regidas por las **leyes de Newton**. Comprenderlas nos permite analizar, predecir y aplicar principios físicos en nuestra vida diaria y en el desarrollo científico.
-
-¡Explora el mundo a través de la fuerza y el movimiento! ⚡🧪🚀
+Todo cambio físico implica una **fuerza**. Desde empujar un lápiz hasta el lanzamiento de un cohete, las interacciones entre objetos están regidas por las **leyes de Newton**. Comprenderlas nos permite analizar, predecir y aplicar principios físicos en nuestra vida diaria y en el desarrollo científico. ⚡🧪🚀
