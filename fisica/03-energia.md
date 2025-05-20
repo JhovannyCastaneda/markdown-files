@@ -17,7 +17,7 @@ La energía no se crea ni se destruye, solo **se transforma**. Existen diversas 
 - **Nuclear**: liberada en reacciones atómicas.
 
 ### Imagen:
-![Tipos de energía](https://www.e-education.psu.edu/eme807/sites/www.e-education.psu.edu.eme807/files/Lesson01/Types_of_Energy.jpg)
+![Tipos de energía](./imagenes/fisica/10-tipos_energia.png)
 
 ### Ejercicio:
 1. Escribe 3 ejemplos cotidianos para tres formas distintas de energía.
@@ -65,7 +65,7 @@ Donde:
 - *h* = altura (m)
 
 ### Imagen:
-![Cinética vs potencial](https://cdn.kastatic.org/ka-perseus-images/014fd2348ebd395fef3ec6bcfaa1bead02dd7aa1.png)
+![Cinética vs potencial](./imagenes/fisica/11-cinetica_potencial.png)
 
 ### Ejercicio:
 1. Calcula la energía cinética de una pelota de 2 kg moviéndose a 3 m/s.
@@ -82,7 +82,7 @@ La energía mecánica es la **suma de energía cinética y potencial**. En siste
   - Al bajar: se transforma en energía cinética.
 
 ### Imagen:
-![Transformación mecánica](https://www.ck12.org/flx/render/embeddedobject/179021)
+![Transformación mecánica](./imagenes/fisica/12-transformacion_mecanica.png)
 
 ### Ejercicio:
 1. Describe la transformación de energía en un columpio en movimiento.
