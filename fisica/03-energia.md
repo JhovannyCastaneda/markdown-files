@@ -3,7 +3,7 @@
 La **energía** es la capacidad de producir cambios o realizar trabajo. Está presente en todo lo que hacemos: encender una lámpara, mover un auto, calentar comida o hacer deporte. La física estudia cómo se manifiesta, se transforma y se conserva la energía en sus diferentes formas.
 
 ---
-## 🔋 Diferentes Formas de la Energía
+## <span id="formas_energia">🔋 Diferentes Formas de la Energía</span>
 
 La energía no se crea ni se destruye, solo **se transforma**. Existen diversas formas de energía:
 
@@ -23,7 +23,7 @@ La energía no se crea ni se destruye, solo **se transforma**. Existen diversas 
 1. Escribe 3 ejemplos cotidianos para tres formas distintas de energía.
 
 ---
-## 🏠 La Energía en la Cotidianidad
+## <span id="energia_cotidiana">🏠 La Energía en la Cotidianidad</span>
 
 Usamos energía todos los días, de muchas maneras:
 
@@ -38,7 +38,7 @@ Usamos energía todos los días, de muchas maneras:
 1. Describe 3 aparatos de tu casa y las formas de energía que usan y generan.
 
 ---
-## 🏃 Energía Cinética y Energía Potencial
+## <span id="cinetica_potencial">🏃 Energía Cinética y Energía Potencial</span>
 
 ### ⚙️ Energía Cinética (K.E.)
 Es la energía de un objeto que **está en movimiento**.
@@ -72,7 +72,7 @@ Donde:
 2. Calcula la energía potencial de un objeto de 5 kg a 10 m de altura.
 
 ---
-## 🔄 Transformaciones de la Energía Mecánica
+## <span id="energia_mecanica">🔄 Transformaciones de la Energía Mecánica</span>
 
 La energía mecánica es la **suma de energía cinética y potencial**. En sistemas reales, esta energía se transforma constantemente.
 
@@ -88,7 +88,9 @@ La energía mecánica es la **suma de energía cinética y potencial**. En siste
 1. Describe la transformación de energía en un columpio en movimiento.
 
 ---
-## ⚡ La Fuerza Eléctrica
+## <span id="fuerza_electrica">⚡ La Fuerza Eléctrica</span>
+
+La fuerza eléctrica es aquella fuerza que aparece cuando dos o más cuerpos están cargados eléctricamente, es decir, la fuerza eléctrica es el resultado de la interacción entre dos o más cargas eléctricas.
 
 Es la fuerza que ocurre entre **cargas eléctricas**. Puede ser:
 - **De atracción** (entre cargas opuestas)
@@ -104,13 +106,13 @@ Donde:
 - *k* = constante de Coulomb ≈ 9×10⁹ N·m²/C²
 
 ### Imagen:
-![Fuerza eléctrica](https://www.kullabs.com/uploads/Class%2010/Physics/Electricity_and_Magnetism/images/1517553760000.png)
+![Fuerza eléctrica](./imagenes/fisica/13-fuerza_electrica.png)
 
 ### Ejercicio:
 1. ¿Qué ocurre si acercas dos globos con la misma carga?
 
 ---
-## 🔌 Energía Eléctrica
+## <span id="energia_electrica">🔌 Energía Eléctrica</span>
 
 La energía eléctrica es la **energía asociada al movimiento de electrones**. Es una de las más utilizadas en la actualidad.
 
@@ -123,13 +125,13 @@ La energía eléctrica es la **energía asociada al movimiento de electrones**. 
 - Encender un foco: electricidad → luz y calor.
 
 ### Imagen:
-![Energía eléctrica](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2022-03/electricity.jpg)
+![Energía eléctrica](./imagenes/fisica/14-energia_electrica.png)
 
 ### Ejercicio:
 1. Haz una lista de 5 dispositivos que funcionen con energía eléctrica.
 
 ---
-## 🧲 Fuerza Magnética
+## <span id="fuerza_magnetica">🧲 Fuerza Magnética</span>
 
 La fuerza magnética es la que **ejercen los imanes** o **campos magnéticos** sobre materiales como hierro.
 
@@ -141,7 +143,7 @@ La fuerza magnética es la que **ejercen los imanes** o **campos magnéticos** s
 - Los motores eléctricos funcionan gracias a esta interacción.
 
 ### Imagen:
-![Fuerza magnética](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VFPt_cylindrical_magnet_field.svg/512px-VFPt_cylindrical_magnet_field.svg.png)
+![Fuerza magnética](./imagenes/fisica/15-fuerza_magnetica.png)
 
 ### Ejercicio:
 1. ¿Qué sucede cuando acercas un imán a una aguja?
@@ -149,6 +151,4 @@ La fuerza magnética es la que **ejercen los imanes** o **campos magnéticos** s
 
 ---
 ## 🧠 Conclusión
-La **energía está en todas partes**: en la luz que ves, en el sonido que escuchas, en el calor que sientes y en el movimiento que haces. Entender sus tipos y cómo se transforma permite aprovecharla de forma eficiente y responsable en nuestra vida cotidiana.
-
-¡Sigue explorando cómo funciona el mundo a través de la energía! 🔋✨
+La **energía está en todas partes**: en la luz que ves, en el sonido que escuchas, en el calor que sientes y en el movimiento que haces. Entender sus tipos y cómo se transforma permite aprovecharla de forma eficiente y responsable en nuestra vida cotidiana.🔋✨
