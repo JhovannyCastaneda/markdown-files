@@ -3,7 +3,7 @@
 La **materia** es todo lo que ocupa un lugar en el espacio y tiene masa. Está presente en todo lo que vemos, tocamos y usamos. Desde una gota de agua hasta una estrella, todo está compuesto por materia en diferentes formas y estados.
 
 ---
-## 🔍 Noción de Materia
+## <span id="materia">🔍 Noción de Materia</span>
 
 La materia es aquello que tiene **masa** y **volumen**. Puede cambiar, moverse, combinarse, romperse o transformarse. Se manifiesta en distintos **estados físicos** y se estudia mediante propiedades observables y medibles.
 
@@ -11,7 +11,7 @@ La materia es aquello que tiene **masa** y **volumen**. Puede cambiar, moverse, 
 - El agua, el aire, una roca o tu cuerpo: todos son materia.
 
 ---
-## ❄️ Estados de Agregación de la Materia
+## <span id="estados_agregacion">❄️ Estados de Agregación de la Materia</span>
 
 Los **estados de agregación** describen cómo están organizadas y cómo se comportan las partículas que forman la materia:
 
@@ -23,10 +23,10 @@ Los **estados de agregación** describen cómo están organizadas y cómo se com
 | Plasma | No definido | No definido | Altamente energéticas (en el Sol, relámpagos)
 
 ### Imagen:
-![Estados de la materia](https://www.lifeder.com/wp-content/uploads/2020/02/estados-de-la-materia-lifeder-min-e1582140499377.jpg)
+![Estados de la materia](./imagenes/fisica/16-estados_agregacion.png)
 
 ---
-## ⚖️ Propiedades Generales de la Materia y su Medición
+## <span id="materia_medicion">⚖️ Propiedades Generales de la Materia y su Medición</span>
 
 ### Propiedades generales (comunes a toda materia):
 - **Masa**: cantidad de materia que tiene un objeto.
@@ -40,7 +40,7 @@ Los **estados de agregación** describen cómo están organizadas y cómo se com
 - Probeta o regla para volumen (m³ o L)
 
 ---
-## 🧠 Los Modelos
+## <span id="modelos">🧠 Los Modelos</span>
 
 Los modelos científicos son **representaciones conceptuales** que ayudan a explicar fenómenos. Como la materia no puede verse a simple vista, se crean modelos para comprender su estructura.
 
@@ -48,10 +48,11 @@ Los modelos científicos son **representaciones conceptuales** que ayudan a expl
 - El modelo del átomo como núcleo y electrones girando alrededor.
 
 ### Imagen:
-![Modelo atómico](https://cdn.kastatic.org/ka-perseus-images/230ed426fdbd3587e86db8e8aa49dc0878dfbcdb.png)
+![Modelo atómico](./imagenes/fisica/17-modelos_atomicos.png)
+![Modelo atómico1](./imagenes/fisica/17-modelos_atomicos1.png)
 
 ---
-## 🏛️ Las Ideas de Aristóteles y Newton sobre la Materia
+## <span id="aristoteles_newton">🏛️ Las Ideas de Aristóteles y Newton sobre la Materia</span>
 
 ### Aristóteles (siglo IV a.C.)
 - Creía que toda materia estaba formada por 4 elementos: **agua, aire, fuego y tierra**.
@@ -62,7 +63,7 @@ Los modelos científicos son **representaciones conceptuales** que ayudan a expl
 🔍 Las ideas de Newton dieron paso a teorías modernas como la teoría atómica.
 
 ---
-## ⚛️ Modelo Cinético de Partículas: de Newton a Boltzmann
+## <span id="cinetico">⚛️ Modelo Cinético de Partículas: de Newton a Boltzmann</span>
 
 El **modelo cinético** explica la materia como compuesta de **partículas en constante movimiento**.
 
@@ -70,13 +71,13 @@ El **modelo cinético** explica la materia como compuesta de **partículas en co
 - Ludwig Boltzmann desarrolló ecuaciones para describir este comportamiento.
 
 ### Imagen:
-![Modelo cinético](https://www.goconqr.com/uploads/images/8/58/28/435828.png)
+![Modelo cinético](./imagenes/fisica/18-modelo_cinetico.png)
 
 ### Ejemplo:
 - Cuando calientas agua, las partículas se mueven más rápido hasta cambiar de estado.
 
 ---
-## 📏 Volumen, Masa, Densidad y Estados Físicos
+## <span id="volumen_masa">📏 Volumen, Masa, Densidad y Estados Físicos</span>
 
 - **Masa (m)**: cantidad de materia (kg)
 - **Volumen (V)**: espacio ocupado (m³)
@@ -89,7 +90,7 @@ $$ \rho = \frac{m}{V} $$
 1. Si un objeto tiene masa de 500 g y volumen de 250 cm³, ¿cuál es su densidad?
 
 ---
-## 🌡️ Calor y Temperatura
+## <span id="calor">🌡️ Calor y Temperatura</span>
 
 - **Calor**: forma de energía que se transfiere por diferencia de temperatura.
 - **Temperatura**: mide el grado de agitación de las partículas.
@@ -100,10 +101,10 @@ $$ \rho = \frac{m}{V} $$
 - Al tocar una cuchara caliente, tu mano recibe calor (energía).
 
 ### Imagen:
-![Calor y temperatura](https://upload.wikimedia.org/wikipedia/commons/8/84/Heat_Transfer_Mechanisms.gif)
+![Calor y temperatura](./imagenes/fisica/19-calor_temperatura.png)
 
 ---
-## 🌡️ Medición de la Temperatura
+## <span id="medicion_temperatura">🌡️ Medición de la Temperatura</span>
 
 Se mide con **termómetros**. Las escalas más comunes son:
 
@@ -114,7 +115,7 @@ Se mide con **termómetros**. Las escalas más comunes son:
 | Kelvin (K) | 273 K | 373 K |
 
 ---
-## 🔥 Energía Térmica
+## <span id="energia_termica">🔥 Energía Térmica</span>
 
 Es la **energía interna** que tienen los cuerpos debido al movimiento de sus partículas. Aumenta con la **temperatura y la masa**.
 
@@ -122,7 +123,7 @@ Es la **energía interna** que tienen los cuerpos debido al movimiento de sus pa
 - Un litro de agua a 80°C tiene más energía térmica que una taza a la misma temperatura.
 
 ---
-## 🔩 Presión y Fuerza
+## <span id="presion_fuerza">🔩 Presión y Fuerza</span>
 
 - **Fuerza (F)**: interacción que causa deformación o movimiento (N)
 - **Presión (P)**: fuerza aplicada sobre una superficie
@@ -138,27 +139,48 @@ Donde:
 - Un clavo aplica más presión que una moneda porque tiene menos área.
 
 ---
-## 💨 Presión en Líquidos y Gases
+## <span id="liquidos_gases">💨 Presión en Líquidos y Gases</span>
 
 - En los **líquidos**, la presión aumenta con la **profundidad**.
 - En los **gases**, la presión depende de la **temperatura y volumen**.
 
-### Imagen:
-![Presión en fluidos](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hydrostatic_pressure01.svg/500px-Hydrostatic_pressure01.svg.png)
-
 ---
-## 🧪 Principio de Pascal
+## <span id="pascal">🧪 Principio de Pascal</span>
 
 **Blaise Pascal** propuso que **la presión ejercida en un fluido cerrado se transmite igual en todas las direcciones**.
 
-### Ejemplo:
-- Las prensas hidráulicas aplican una pequeña fuerza en un extremo y obtienen una gran fuerza en el otro.
+### ¿Qué es el principio de Pascal?
+Debido a las características de los fluidos, es decir, los líquidos, es imposible aplicar presión en algún punto sobre ellos. Para esto, es necesario que la fuerza se ejerza sobre una superficie. Esta fuerza, se expresa como la fuerza por unidad de área, la presión.
 
-### Imagen:
-![Principio de Pascal](https://upload.wikimedia.org/wikipedia/commons/3/33/Pascals_law.svg)
+El científico Blaise Pascal (1623-1622) observó que al incrementar la presión aplicada a una superficie, esta misma presión aumentará en la misma cantidad. A esto, se le denomina principio de Pascal, que se enuncia de la siguiente forma:
+
+**Al ejercerse una presión sobre un fluido, esta se ejercerá con igual magnitud en todas las direcciones y en cada parte del fluido.**
+
+Los fluidos pueden clasificarse en dos tipos de acuerdo con su comportamiento cuando se ejerce una presión sobre ellos:
+
+- **Fluidos compresibles**: Estos fluidos pueden expandirse o comprimirse dependiendo de la presión que se ejerza sobre ellos. Los gases son los fluidos compresibles por excelencia.
+- **Fluidos incompresibles**: Estos fluidos no cambian su volumen por efectos de la presión. Los líquidos y los sólidos son considerados incompresibles.
+
+### Aplicaciones del principio de Pascal: prensa hidráulica
+
+La principal aplicación del principio de Pascal es la prensa hidráulica. Esta se encuentra formada por dos recipientes de paredes rígidas, cada uno de ellos contiene un fluido incompresible y ambos recipientes se encuentran conectados por la parte inferior. De este modo la altura del fluido es la misma en cada uno de los recipientes.
+
+La peculiaridad de este sistema es que el área transversal de ambos recipientes es diferente, pues uno de ellos, es mucho menor.
+
+![Principio de Pascal](./imagenes/fisica/20-principio_pascal.png)
+
+Para igualar las presiones, el fluido se desplazará hacia la otra área, de modo que ambas presiones serán las mismas:
+
+$$ P_1 = P_2 $$
+
+Este sistema permite multiplicar la fuerza de un lugar a otro. De este modo, se establece la siguiente fórmula:
+
+$$ \frac{F_1}{A_1} = \frac{F_2}{A_2} $$
+
+Recuerda que la A se refiere al área de la superficie de la entrada y la salida, mientras que la F simboliza la fuerza de cada movimiento. No olvides que el área se puede expresar en centímetros o metros cuadrados (m2, cm2), mientras que la F se representa en newtons (N).
 
 ---
-## 🔁 Cambios de Estado de Agregación de la Materia
+## <span id="cambios_materia">🔁 Cambios de Estado de Agregación de la Materia</span>
 
 Cuando la **energía (calor)** cambia, también lo puede hacer el **estado físico** de la materia:
 
@@ -172,13 +194,11 @@ Cuando la **energía (calor)** cambia, también lo puede hacer el **estado físi
 | Deposición | Gas → Sólido        |
 
 ### Imagen:
-![Cambios de estado](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cambios_de_estado.svg/800px-Cambios_de_estado.svg.png)
+![Cambios de estado](./imagenes/fisica/21-estados_materia.png)
 
 ### Ejercicio:
 1. Describe qué ocurre cuando hierves agua hasta convertirla en vapor.
 
 ---
 ## 🧠 Conclusión
-La materia está en constante transformación. Conocer sus **propiedades, estados, estructura interna y cómo reacciona al calor, presión o energía** nos ayuda a comprender mejor el mundo físico que nos rodea.
-
-¡La materia es la base de todo lo que existe, y tú puedes dominar su ciencia! 🔬🌡️📘
+La materia está en constante transformación. Conocer sus **propiedades, estados, estructura interna y cómo reacciona al calor, presión o energía** nos ayuda a comprender mejor el mundo físico que nos rodea.🔬🌡️📘
