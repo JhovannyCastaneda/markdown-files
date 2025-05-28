@@ -3,7 +3,7 @@
 La materia está formada por **partículas muy pequeñas** que no se pueden ver a simple vista, pero que determinan sus propiedades y comportamientos. Entender la estructura interna de la materia nos permite explicar fenómenos como la electricidad, la luz, los imanes y el funcionamiento de los átomos.
 
 ---
-## ⚡ La Electricidad, la Luz y el Electroimán
+## <span id="electroiman">⚡ La Electricidad, la Luz y el Electroimán</span>
 
 ### ⚡ Electricidad
 La electricidad es el **flujo de electrones** a través de un material conductor. Estos electrones se mueven por una diferencia de potencial (voltaje).
@@ -22,7 +22,7 @@ Un **electroimán** es un dispositivo que **genera un campo magnético cuando pa
 - Cuanto mayor la corriente o el número de vueltas, mayor el magnetismo.
 
 ### Imagen:
-![Electroimán](https://www.electricityforum.com/images/posts/2020/June/what-is-an-electromagnet.jpg)
+![Electroimán](./imagenes/fisica/22-electroiman.png)
 
 ### Ejemplo de uso:
 - Timbradores, motores, grúas industriales.
@@ -32,7 +32,7 @@ Un **electroimán** es un dispositivo que **genera un campo magnético cuando pa
 2. ¿Qué tipo de energía transporta la luz?
 
 ---
-## 🔬 Teoría Atómica
+## <span id="teoria_atomica">🔬 Teoría Atómica</span>
 
 La **teoría atómica** explica que toda la materia está formada por partículas diminutas llamadas **átomos**.
 
@@ -45,14 +45,14 @@ La **teoría atómica** explica que toda la materia está formada por partícula
 - **Modelo cuántico** (actual): los electrones están en zonas llamadas **nubes de probabilidad**.
 
 ### Imagen:
-![Modelos atómicos](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Atomic_models_diagram_es.svg/800px-Atomic_models_diagram_es.svg.png)
+![Modelos atómicos](./imagenes/fisica/23-teoria_atomica.png)
 
 ### Ejercicio:
 1. Escribe el nombre de los científicos que aportaron al modelo atómico moderno.
 2. ¿Por qué se dice que el modelo atómico sigue evolucionando?
 
 ---
-## ⚛️ Constitución Básica del Átomo: Núcleo y Electrones
+## <span id="atomo">⚛️ Constitución Básica del Átomo: Núcleo y Electrones</span>
 
 ### Estructura del átomo:
 - **Núcleo**: parte central, donde están los **protones** (carga positiva) y **neutrones** (sin carga).
@@ -63,7 +63,7 @@ La **teoría atómica** explica que toda la materia está formada por partícula
 - Los electrones determinan las **propiedades químicas** y la **electricidad**.
 
 ### Imagen:
-![Átomo](https://cdn.pixabay.com/photo/2014/04/03/11/50/atom-312046_960_720.png)
+![Átomo](./imagenes/fisica/24-estructura_atomo.png)
 
 ### Ejemplo:
 - En un átomo de hidrógeno:
@@ -76,6 +76,4 @@ La **teoría atómica** explica que toda la materia está formada por partícula
 
 ---
 ## 🧠 Conclusión
-La estructura interna de la materia revela un mundo microscópico de partículas que se mueven, interactúan y forman todo lo que existe. Gracias a la electricidad, la luz y el magnetismo, estas partículas generan fenómenos fundamentales para la ciencia y la tecnología.
-
-¡Explorar los átomos es conocer los ladrillos del universo! ⚛️✨
+La estructura interna de la materia revela un mundo microscópico de partículas que se mueven, interactúan y forman todo lo que existe. Gracias a la electricidad, la luz y el magnetismo, estas partículas generan fenómenos fundamentales para la ciencia y la tecnología.⚛️✨
