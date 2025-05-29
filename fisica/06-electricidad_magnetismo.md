@@ -3,7 +3,7 @@
 La electricidad y el magnetismo están profundamente relacionados y son fundamentales para la tecnología moderna. Desde los circuitos eléctricos hasta la luz que llega a nuestros ojos, estos fenómenos explican una gran parte del mundo físico.
 
 ---
-## 🔘 El Electrón
+## <span id="electron">🔘 El Electrón</span>
 
 El **electrón** es una partícula subatómica con **carga negativa**, descubierta por J. J. Thomson en 1897. Es fundamental en:
 - La formación de electricidad (flujo de electrones).
@@ -14,13 +14,13 @@ El **electrón** es una partícula subatómica con **carga negativa**, descubier
 - Masa: muy pequeña (≈ 1/1836 de la masa del protón)
 
 ### Imagen:
-![Estructura del átomo con electrones](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Atom_diagram.png/640px-Atom_diagram.png)
+![Electrones](./imagenes/fisica/25-electron.png)
 
 ### Ejercicio:
 1. ¿Cuál es la carga del electrón?
 
 ---
-## 🔌 Los Materiales y su Conductividad Eléctrica
+## <span id="materiales">🔌 Los Materiales y su Conductividad Eléctrica</span>
 
 ### Conductores
 Permiten el **libre movimiento de electrones**.
@@ -41,13 +41,13 @@ Ejemplo:
 - Silicio (usado en chips y computadoras).
 
 ### Imagen:
-![Conductores y aislantes](https://www.electricityforum.com/images/posts/2020/August/conductors-vs-insulators-1.jpg)
+![Conductores y aislantes](./imagenes/fisica/26-conductores_aislantes.png)
 
 ### Ejercicio:
 1. Clasifica los siguientes materiales como conductores, aislantes o semiconductores: oro, caucho, silicio.
 
 ---
-## ⚡ Resistencia Eléctrica
+## <span id="resistencia_electrica">⚡ Resistencia Eléctrica</span>
 
 La **resistencia eléctrica** es la **oposición al flujo de corriente** en un material. Se mide en **ohmios (Ω)**.
 
@@ -60,7 +60,7 @@ Donde:
 - *R*: resistencia (Ω)
 
 ### Imagen:
-![Ley de Ohm](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ohm%27s_law_triangle.svg/512px-Ohm%27s_law_triangle.svg.png)
+![Ley de Ohm](./imagenes/fisica/27-ley_ohm.png)
 
 ### Ejemplo:
 - Una lámpara de 12 V y 3 A tiene una resistencia de:
@@ -70,7 +70,7 @@ Donde:
 1. Calcula la resistencia de un aparato que consume 2 A con un voltaje de 10 V.
 
 ---
-## 🧲 Magnetismo
+## <span id="magnetismo">🧲 Magnetismo</span>
 
 El **magnetismo** es una fuerza que actúa entre ciertos materiales como hierro, níquel o cobalto. Está causado por el **movimiento de cargas eléctricas**.
 
@@ -83,13 +83,14 @@ El **magnetismo** es una fuerza que actúa entre ciertos materiales como hierro,
 - Se representa con líneas que salen del polo norte y entran al sur.
 
 ### Imagen:
-![Campo magnético](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/VFPt_cylindrical_magnet_field.svg/512px-VFPt_cylindrical_magnet_field.svg.png)
+![Magnetismo](./imagenes/fisica/28-magnetismo.png)
+![Campo magnético](./imagenes/fisica/29-campo_magnetico.png)
 
 ### Ejercicio:
 1. Dibuja las líneas de campo magnético de un imán.
 
 ---
-## 🔄 Reflexión y Refracción
+## <span id="reflexion">🔄 Reflexión y Refracción</span>
 
 ### 🔁 Reflexión
 Es el **rebote de la luz** (o de otra onda) al chocar con una superficie.
@@ -103,13 +104,13 @@ Es el **cambio de dirección** de una onda al pasar de un medio a otro con disti
 - Una cuchara parece "doblarse" al entrar al agua.
 
 ### Imagen:
-![Reflexión y refracción](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/RefractionReflexion.png/800px-RefractionReflexion.png)
+![Reflexión y refracción](./imagenes/fisica/30-reflexion.png)
 
 ### Ejercicio:
 1. Describe un ejemplo cotidiano de reflexión y uno de refracción.
 
 ---
-## 📡 Ondas Electromagnéticas
+## <span id="electromagnetica">📡 Ondas Electromagnéticas</span>
 
 Las **ondas electromagnéticas** son perturbaciones que **no necesitan un medio material para propagarse**. Están formadas por un campo eléctrico y uno magnético que se mueven en ángulo recto entre sí.
 
@@ -123,7 +124,7 @@ Las **ondas electromagnéticas** son perturbaciones que **no necesitan un medio 
 - Rayos gamma
 
 ### Imagen:
-![Espectro electromagnético](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/EM_spectrum.svg/800px-EM_spectrum.svg.png)
+![Ondas electromagneticas](./imagenes/fisica/31-onda_electromanegtica.png)
 
 ### Ejemplo:
 - La luz del Sol es una mezcla de ondas electromagnéticas.
@@ -134,6 +135,4 @@ Las **ondas electromagnéticas** son perturbaciones que **no necesitan un medio 
 
 ---
 ## 🧠 Conclusión
-La electricidad y el magnetismo están interconectados y presentes en casi toda nuestra tecnología. Desde el uso de la corriente en un foco hasta las señales de tu celular, conocer estos conceptos nos permite **entender cómo funciona el mundo moderno**.
-
-¡Explora, conecta y enciende el poder del electromagnetismo! ⚡🧲📡
+La electricidad y el magnetismo están interconectados y presentes en casi toda nuestra tecnología. Desde el uso de la corriente en un foco hasta las señales de tu celular, conocer estos conceptos nos permite **entender cómo funciona el mundo moderno**.⚡🧲📡
