@@ -1,9 +1,9 @@
--# 🧪 Mezclas, Compuestos y Elementos
+# 🧪 Mezclas, Compuestos y Elementos
 
 Este tema aborda cómo se clasifica la materia, cómo se representan las sustancias químicas y cómo los científicos desarrollaron modelos atómicos y sistemas para organizarlas. También aprenderás sobre la tabla periódica, enlaces químicos y reacciones básicas. Vamos a profundizar en cada subtema para comprender completamente su aplicación científica y cotidiana.
 
 ---
-## 🔎 Clasificaciones de las Sustancias
+## <span id="sustancias">🔎 Clasificaciones de las Sustancias</span>
 
 La materia puede clasificarse según su composición química. Esta clasificación permite identificar las características de los materiales, su uso y la manera en que pueden ser separados o transformados.
 
@@ -24,7 +24,7 @@ Formadas por **dos o más sustancias** combinadas físicamente. Se pueden separa
 1. Clasifica los siguientes materiales: leche, sal, bronce, agua con aceite.
 
 ---
-## 💧 Disoluciones Acuosas y Sustancias Puras
+## <span id="disoluciones">💧 Disoluciones Acuosas y Sustancias Puras</span>
 
 ### Disolución Acuosa
 Es una mezcla homogénea donde **el agua es el solvente** y puede disolver muchas sustancias.
@@ -42,7 +42,7 @@ Ejemplo: Agua con sal, bebidas deportivas, medicamentos líquidos.
 1. ¿Qué tipo de mezcla es una solución salina? ¿Qué componentes la forman?
 
 ---
-## ⚛️ El Modelo Atómico
+## <span id="modelo_atomico">⚛️ El Modelo Atómico</span>
 
 Los modelos atómicos son representaciones que explican cómo está constituida la materia a nivel microscópico.
 
@@ -61,7 +61,7 @@ Los modelos atómicos son representaciones que explican cómo está constituida 
 1. Describe en tus palabras cómo ha cambiado la idea del átomo desde Demócrito hasta el modelo actual.
 
 ---
-## 🔘 Electrones Internos y Externos
+## <span id="electrones_externos">🔘 Electrones Internos y Externos</span>
 
 ### Electrones Internos
 - Ocupan los niveles más cercanos al núcleo.
@@ -77,7 +77,7 @@ Ejemplo: El oxígeno tiene 6 electrones de valencia, lo que le permite formar en
 ![Electrones de valencia](./imagenes/quimica/08-electrones_externos.png)
 
 ---
-## 🔷 Modelo de Lewis y Electrones de Valencia
+## <span id="modelo_lewis">🔷 Modelo de Lewis y Electrones de Valencia</span>
 
 El modelo de Lewis es una manera visual de representar los **electrones de valencia**. Utiliza **puntos alrededor del símbolo del elemento**.
 
@@ -103,7 +103,7 @@ El modelo de Lewis es una manera visual de representar los **electrones de valen
 ![electrones_valencia](./imagenes/quimica/10-electrones_valencia.png)
 
 ---
-## 🧪 Representación Química de Elementos, Moléculas, Átomos, Iones e Isótopos
+## <span id="representacion_elementos">🧪 Representación Química de Elementos, Moléculas, Átomos, Iones e Isótopos</span>
 
 ### Términos:
 - **Elemento**: Fe, O₂, H₂
@@ -117,7 +117,7 @@ El modelo de Lewis es una manera visual de representar los **electrones de valen
 2. Da un ejemplo de isótopo y para qué se usa (p. ej., medicina).
 
 ---
-## 👨‍🔬 Aportaciones de Cannizzaro y Mendeleiev
+## <span id="cannizzaro">👨‍🔬 Aportaciones de Cannizzaro y Mendeleiev</span>
 
 ### Cannizzaro (1860)
 - Propuso métodos para establecer masas atómicas confiables.
@@ -131,7 +131,7 @@ El modelo de Lewis es una manera visual de representar los **electrones de valen
 1. ¿Por qué fue importante el trabajo de Mendeleiev en la historia de la química?
 
 ---
-## 📊 Identificación de Algunas Propiedades de la Materia
+## <span id="propiedades_materia">📊 Identificación de Algunas Propiedades de la Materia</span>
 
 Las propiedades se clasifican en:
 - **Físicas**: no cambian la identidad de la sustancia (color, punto de fusión).
@@ -140,7 +140,34 @@ Las propiedades se clasifican en:
 Aprender a identificar estas propiedades permite distinguir sustancias, prever su comportamiento y usarlas correctamente.
 
 ---
-## ⚖️ Uso Cotidiano de Patrones de Medida
+## <span id="conocimiento_materia">🧬 Aproximación al Conocimiento de la Estructura de la Materia</span>
+
+Durante siglos, los seres humanos han intentado comprender de qué está hecha la materia. Esta búsqueda ha llevado al desarrollo de diferentes **modelos atómicos** y al descubrimiento de partículas subatómicas.
+
+### Etapas del conocimiento:
+
+1. **Filosofía griega antigua**:
+   - Demócrito propuso que la materia estaba hecha de átomos indivisibles.
+
+2. **Química empírica**:
+   - Observaciones sobre reacciones, sin conocer aún la estructura interna.
+
+3. **Teoría atómica moderna**:
+   - Dalton propuso los primeros modelos científicos del átomo.
+
+4. **Descubrimiento de partículas**:
+   - Se identificaron los electrones (Thomson), protones (Rutherford) y neutrones (Chadwick).
+
+5. **Física cuántica**:
+   - Explica el comportamiento de electrones como partículas y ondas.
+
+### Importancia:
+- Explicar reacciones químicas.
+- Comprender los enlaces.
+- Diseñar materiales nuevos (como plásticos o semiconductores).
+
+---
+## <span id="patrones_medida">⚖️ Uso Cotidiano de Patrones de Medida</span>
 
 Usamos patrones de medida para **controlar procesos químicos, cocinar, dosificar medicamentos y fabricar productos**.
 
@@ -154,7 +181,45 @@ Usamos patrones de medida para **controlar procesos químicos, cocinar, dosifica
 1. ¿Qué instrumentos usarías para medir con precisión una masa, un volumen y una temperatura?
 
 ---
-## 🧬 La Tabla Periódica
+## <span id="pesos_atomicos">⚖️ Pesos Atómicos de los Elementos</span>
+
+El **peso atómico** (también llamado **masa atómica relativa**) es la masa promedio de los átomos de un elemento, teniendo en cuenta la abundancia natural de sus **isótopos**. Se expresa en **unidades de masa atómica (uma o u)**.
+
+### ¿Por qué no es un número entero?
+Debido a que un elemento puede tener varios isótopos (átomos con diferente número de neutrones), el peso atómico es el **promedio ponderado** de todos ellos.
+
+### Ejemplo:
+El cloro tiene dos isótopos:
+- Cl-35 con 75.8% de abundancia
+- Cl-37 con 24.2% de abundancia
+
+El peso atómico del cloro será:
+$$ (35 \times 0.758) + (37 \times 0.242) = 35.48 \, u $$
+
+### ¿Dónde se encuentra?
+En la **tabla periódica**, debajo del símbolo de cada elemento.
+
+| Elemento | Símbolo | Peso atómico aproximado |
+|----------|---------|--------------------------|
+| Hidrógeno | H       | 1.01 u                   |
+| Carbono   | C       | 12.01 u                  |
+| Oxígeno   | O       | 16.00 u                  |
+| Hierro    | Fe      | 55.85 u                  |
+
+### Imagen:
+![Pesos atómicos](https://www.chemicool.com/images/mass-atomic-number.png)
+
+### Importancia:
+- Sirve para **calcular masas molares**.
+- Se usa en **estequiometría** para balancear reacciones químicas.
+- Permite comparar la masa de distintos elementos.
+
+### Ejercicio:
+1. Busca el peso atómico del nitrógeno y el sodio en la tabla periódica.
+2. Explica por qué el peso atómico del cloro no es exactamente 35 ni 37.
+
+---
+## <span id="tabla_periodica">🧬 La Tabla Periódica</span>
 
 Herramienta que organiza los elementos por:
 - **Número atómico** (cantidad de protones)
@@ -170,7 +235,7 @@ Herramienta que organiza los elementos por:
 1. ¿Qué información puedes obtener de un elemento en la tabla periódica?
 
 ---
-## 🔗 Enlaces y Reacciones de Síntesis
+## <span id="reacciones_sintesis">🔗 Enlaces y Reacciones de Síntesis</span>
 
 ### Enlaces químicos
 - **Iónico**: entre metal y no metal. Transfiere electrones. Ej: NaCl
