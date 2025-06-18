@@ -3,7 +3,7 @@
 La biodiversidad se refiere a la **variedad de seres vivos que habitan la Tierra**, incluyendo plantas, animales, hongos, microorganismos, y los ecosistemas que forman. Esta riqueza es esencial para el equilibrio ecológico y el bienestar humano.
 
 ---
-## 🔍 Comparación de las Características Comunes de los Seres Vivos
+## <span id="comunes_seres">🔍 Comparación de las Características Comunes de los Seres Vivos</span>
 
 Todos los seres vivos comparten ciertas características fundamentales que los diferencian de la materia inerte:
 
@@ -20,7 +20,7 @@ Todos los seres vivos comparten ciertas características fundamentales que los d
 1. Identifica dos características que compartes con una planta y una bacteria.
 
 ---
-## 🧬 Importancia de la Clasificación
+## <span id="clasificacion">🧬 Importancia de la Clasificación</span>
 
 Clasificar a los seres vivos permite **ordenarlos, estudiarlos y comprender su relación evolutiva**.
 
@@ -43,10 +43,10 @@ El ser humano:
 - Especie: sapiens
 
 ### Imagen:
-![Clasificación biológica](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Taxonomic_Hierarchy.svg/640px-Taxonomic_Hierarchy.svg.png)
+![Clasificación biológica](./imagenes/biologia/01-clasificacion_seresvivos.png)
 
 ---
-## 🌎 Análisis de la Abundancia y Distribución de los Seres Vivos. México como País Diverso
+## <span id="abundancia_distribucion">🌎 Análisis de la Abundancia y Distribución de los Seres Vivos. México como País Diverso</span>
 
 Los seres vivos no están distribuidos de manera uniforme en el planeta. Su distribución depende del clima, suelo, altitud, agua y otros factores.
 
@@ -62,7 +62,7 @@ Los seres vivos no están distribuidos de manera uniforme en el planeta. Su dist
 1. Investiga qué especie endémica habita en tu estado o región.
 
 ---
-## 🌳 Importancia de la Conservación de los Ecosistemas
+## <span id="conservacion_ecosistemas">🌳 Importancia de la Conservación de los Ecosistemas</span>
 
 Los ecosistemas equilibran los procesos naturales que permiten la vida. Conservarlos asegura:
 - Producción de oxígeno.
@@ -81,11 +81,8 @@ Los ecosistemas equilibran los procesos naturales que permiten la vida. Conserva
 - Educación ambiental.
 - Uso racional de recursos.
 
-### Imagen:
-![Conservación](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Conservacion_de_la_biodiversidad.jpg/800px-Conservacion_de_la_biodiversidad.jpg)
-
 ---
-## ⚖️ Equidad en el Aprovechamiento Presente y Futuro de los Recursos: Desarrollo Sustentable
+## <span id="desarrollo_sustentable">⚖️ Equidad en el Aprovechamiento Presente y Futuro de los Recursos: Desarrollo Sustentable</span>
 
 El **desarrollo sustentable** busca satisfacer las necesidades actuales **sin comprometer los recursos** para las futuras generaciones.
 
