@@ -3,7 +3,7 @@
 Los seres vivos presentan distintas formas de nutrición que les permiten adaptarse a sus ambientes y mantener sus funciones vitales. Esta diversidad nutricional sostiene el equilibrio de los ecosistemas y está relacionada con la transformación y flujo de energía en la naturaleza.
 
 ---
-## 🍽️ Comparación de Organismos Heterótrofos y Autótrofos
+## <span id="heterotrofos">🍽️ Comparación de Organismos Heterótrofos y Autótrofos</span>
 
 ### Autótrofos:
 - Son organismos que **producen su propio alimento**.
@@ -30,13 +30,13 @@ Los seres vivos presentan distintas formas de nutrición que les permiten adapta
 | Ejemplos             | Árboles, algas              | Humanos, leones, hongos    |
 
 ### Imagen:
-![Autótrofos y heterótrofos](https://www.todamateria.com/wp-content/uploads/2019/02/autotrofos-heterotrofos-e1551399136167.jpg)
+![Autótrofos y heterótrofos](./imagenes/biologia/09-heterotrofos.png)
 
 ### Ejercicio:
 1. Clasifica los siguientes organismos como autótrofos o heterótrofos: champiñón, perro, alga, cactus.
 
 ---
-## 🐾 La Interacción Depredador–Presa
+## <span id="depredador_presa">🐾 La Interacción Depredador–Presa</span>
 
 Es una relación ecológica en la que un organismo (**depredador**) **caza y consume** a otro (**presa**) para sobrevivir.
 
@@ -55,14 +55,11 @@ Es una relación ecológica en la que un organismo (**depredador**) **caza y con
 ### Adaptaciones de presas:
 - Camuflaje, velocidad, defensas químicas o físicas.
 
-### Imagen:
-![Depredador presa](https://upload.wikimedia.org/wikipedia/commons/4/4b/Food_chain.svg)
-
 ### Ejercicio:
 1. Menciona un ejemplo de interacción depredador-presa de tu región.
 
 ---
-## 🌞 Valoración de la Importancia de la Fotosíntesis como Proceso de Transformación de Energía y Base de las Cadenas Alimentarias
+## <span id="fotosintesis">🌞 Valoración de la Importancia de la Fotosíntesis como Proceso de Transformación de Energía y Base de las Cadenas Alimentarias</span>
 
 ### ¿Qué es la fotosíntesis?
 Es el proceso mediante el cual **las plantas, algas y algunas bacterias transforman la energía solar en energía química** (glucosa), usando dióxido de carbono y agua.
@@ -76,7 +73,7 @@ $$ 6CO_2 + 6H_2O + luz → C_6H_{12}O_6 + 6O_2 $$
 - Es el **inicio de las cadenas alimentarias**.
 
 ### Imagen:
-![Fotosíntesis](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Photosynthesis.gif/600px-Photosynthesis.gif)
+![Fotosíntesis](./imagenes/biologia/10-fotosintesis.png)
 
 ### Relación con cadenas alimentarias:
 - Los organismos autótrofos son los **productores**.
